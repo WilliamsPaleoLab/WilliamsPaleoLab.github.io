@@ -14,7 +14,7 @@
     <p class='col-xs-10'>
       {{person.biography}}
     </p>
-   <a href="{{person.website}}">Website</a> | <a href="{{person.twitter}}">Twitter</a> | <a href="{{person.email}}">Email</a> | <a href="{{person.orcid}}">Orcid</a> | <a href="{{person.linkedin}}">LinkedIn</a>
+   <a href="{{person.website}}">Website</a> | <a href="{{person.twitter}}">Twitter</a> | <a href="mailto:{{person.email}}">Email</a> | <a href="{{person.orcid}}">Orcid</a> | <a href="{{person.linkedin}}">LinkedIn</a>
     {% endfor %}
      <!--  end professor loop -->
 
@@ -27,7 +27,7 @@
      <p class='col-xs-10'>
        {{person.biography}}
      </p>
-        <a href="{{person.website}}">Website</a> | <a href="{{person.twitter}}">Twitter</a> | <a href="{{person.email}}">Email</a> | <a href="{{person.orcid}}">Orcid</a> | <a href="{{person.linkedin}}">LinkedIn</a>
+        <a href="{{person.website}}">Website</a> | <a href="{{person.twitter}}">Twitter</a> | <a href="mailto:{{person.email}}">Email</a> | <a href="{{person.orcid}}">Orcid</a> | <a href="{{person.linkedin}}">LinkedIn</a>
      {% endfor %}
       <!--  end postdocs loop -->
 
@@ -40,7 +40,7 @@
        <p class='col-xs-10'>
          {{person.biography}}
        </p>
-            <a href="{{person.website}}">Website</a> | <a href="{{person.twitter}}">Twitter</a> | <a href="{{person.email}}">Email</a> | <a href="{{person.orcid}}">Orcid</a> | <a href="{{person.linkedin}}">LinkedIn</a>
+            <a href="{{person.website}}">Website</a> | <a href="{{person.twitter}}">Twitter</a> | <a href="mailto:{{person.email}}">Email</a> | <a href="{{person.orcid}}">Orcid</a> | <a href="{{person.linkedin}}">LinkedIn</a>
      {% endfor %}
       <!--  end graduate student loop -->
 
@@ -54,10 +54,11 @@
         {{person.biography}}
       </p>
         <h5>Contact</h5>
-             <a href="{{person.website}}">Website</a> | <a href="{{person.twitter}}">Twitter</a> | <a href="{{person.email}}">Email</a> | <a href="{{person.orcid}}">Orcid</a> | <a href="{{person.linkedin}}">LinkedIn</a>
+             <a href="{{person.website}}">Website</a> | <a href="{{person.twitter}}">Twitter</a> | <a href="mailto:{{person.email}}">Email</a> | <a href="{{person.orcid}}">Orcid</a> | <a href="{{person.linkedin}}">LinkedIn</a>
       {% endfor %}
 
   </div>
        <!--  end undergrads loop -->
+           {% include footer.html %}
     </body>
 </html>
