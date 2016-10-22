@@ -34,8 +34,6 @@ permalink: pretty
 ## this is the directory we serve from
 baseurl: ""
 
-gems: ['jekyll/scholar']
-
 ##People
 collections:
   people:
