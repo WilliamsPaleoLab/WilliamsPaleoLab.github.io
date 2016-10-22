@@ -12,6 +12,9 @@
       <h2 class='page-header'>{{ person.name }}</h2>
       <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}" />
       <p>
+        Role: {{person.role}}
+      </p>
+      <p>
         {{person.biography}}
       </p>
       <h5>Contact</h5>
@@ -41,6 +44,9 @@
      {% for person in postdocs  %} <!-- iterate through the matching postdocs -->
        <h2 class='page-header'>{{ person.name }}</h2>
        <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}" />
+       <p>
+         Role: {{person.role}}
+       </p>
        <p>
          {{person.biography}}
        </p>
@@ -72,6 +78,9 @@
        <h2 class='page-header'>{{ person.name }}</h2>
        <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}" />
        <p>
+         Role: {{person.role}}
+       </p>
+       <p>
          {{person.biography}}
        </p>
        <h5>Contact</h5>
@@ -101,6 +110,9 @@
       {% for person in undergrads  %} <!-- iterate through the matching undegrads -->
         <h2 class='page-header'>{{ person.name }}</h2>
         <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}" />
+        <p>
+          Role: {{person.role}}
+        </p>
         <p>
           {{person.biography}}
         </p>
