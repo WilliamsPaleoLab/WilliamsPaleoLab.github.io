@@ -10,7 +10,7 @@
     {% assign professors = site.people | where:'role', 'Professor' %} <!-- select from the templates -->
     {% for person in professors | where:"role","Graduate Student"  %} <!-- iterate through the matching professors -->
       <h2 class='page-header'>{{ person.name }}</h2>
-      <img src="{{person.photo}}" />
+      <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}" />
       <p>
         Role: {{person.role}}
       </p>
@@ -43,7 +43,7 @@
      {% assign postdocs = site.people | where:'role', 'Postdoc' %} <!-- select from the templates for postdocs -->
      {% for person in postdocs  %} <!-- iterate through the matching postdocs -->
        <h2 class='page-header'>{{ person.name }}</h2>
-       <img src="{{person.photo}}" />
+       <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}" />
        <p>
          Role: {{person.role}}
        </p>
@@ -76,7 +76,7 @@
      {% assign grads = site.people | where:'role', 'Graduate Student' %} <!-- select from the templates for graduate students -->
      {% for person in grads  %} <!-- iterate through the matching grads -->
        <h2 class='page-header'>{{ person.name }}</h2>
-       <img src="{{person.photo}}" />
+       <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}" />
        <p>
          Role: {{person.role}}
        </p>
@@ -109,7 +109,7 @@
       {% assign undergrads = site.people | where:'role', 'Undergraduate' %} <!-- select from the templates for undergrads -->
       {% for person in undergrads  %} <!-- iterate through the matching undegrads -->
         <h2 class='page-header'>{{ person.name }}</h2>
-        <img src="{{person.photo}}" />
+        <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}" />
         <p>
           Role: {{person.role}}
         </p>
