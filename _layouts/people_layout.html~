@@ -5,12 +5,15 @@
     {% include nav.html %}
     <h2 class='page-header'>People in the Lab</h2>
 
-<div class='container'>
+
     <!-- PIs.  Use list just in case we want to add another prof -->
     {% assign professors = site.people | where:'role', 'Professor' %} <!-- select from the templates -->
     {% for person in professors  %} <!-- iterate through the matching professors -->
-      <h4 class='page-header'>{{ person.name }}</h4>
+      <h2 class='page-header'>{{ person.name }}</h2>
       <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}" />
+      <p>
+        Role: {{person.role}}
+      </p>
       <p>
         {{person.biography}}
       </p>
@@ -39,8 +42,11 @@
      <!-- do graduate students now -->
      {% assign postdocs = site.people | where:'role', 'Postdoc' %} <!-- select from the templates for postdocs -->
      {% for person in postdocs  %} <!-- iterate through the matching postdocs -->
-       <h4 class='page-header'>{{ person.name }}</h4>
+       <h2 class='page-header'>{{ person.name }}</h2>
        <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}" />
+       <p>
+         Role: {{person.role}}
+       </p>
        <p>
          {{person.biography}}
        </p>
@@ -69,8 +75,11 @@
      <!-- do graduate students now -->
      {% assign grads = site.people | where:'role', 'Graduate Student' %} <!-- select from the templates for graduate students -->
      {% for person in grads  %} <!-- iterate through the matching grads -->
-       <h4 class='page-header'>{{ person.name }}</h4>
+       <h2 class='page-header'>{{ person.name }}</h2>
        <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}" />
+       <p>
+         Role: {{person.role}}
+       </p>
        <p>
          {{person.biography}}
        </p>
@@ -99,8 +108,11 @@
       <!-- do graduate students now -->
       {% assign undergrads = site.people | where:'role', 'Undergraduate' %} <!-- select from the templates for undergrads -->
       {% for person in undergrads  %} <!-- iterate through the matching undegrads -->
-        <h4 class='page-header'>{{ person.name }}</h4>
+        <h2 class='page-header'>{{ person.name }}</h2>
         <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}" />
+        <p>
+          Role: {{person.role}}
+        </p>
         <p>
           {{person.biography}}
         </p>
@@ -123,8 +135,6 @@
           </li>
         </ul>
       {% endfor %}
-
-  </div>
        <!--  end undergrads loop -->
     </body>
 </html>
