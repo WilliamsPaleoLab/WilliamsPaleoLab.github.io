@@ -1,15 +1,10 @@
 # Site settings
-<<<<<<< HEAD
-title: Williams Paleo Lab
-email: your-email@domain.com
-url: https://example.github.io
-description: This is Williams Paleo Lab.
-=======
+
 title: Williams Lab
 email: jwwilliams1@wisc.edu
 url: https://example.github.io
 description: "Paleoecology - Paleoclimatology - Global Climate Change - Quaternary Environments."
->>>>>>> d7e0cbee3e3e5a2c4b1ad5cee59e3a8b79a4549a
+
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
