@@ -40,11 +40,7 @@
        <p class='col-xs-10'>
          {{person.biography}}
        </p>
-<<<<<<< HEAD
             <a href="{{person.website}}">Website</a> | <a href="{{person.twitter}}">Twitter</a> | <a href="mailto:{{person.email}}">Email</a> | <a href="{{person.orcid}}">Orcid</a> | <a href="{{person.linkedin}}">LinkedIn</a>
-=======
-       <a href="{{person.website}}">Website</a> | <a href="{{person.twitter}}">Twitter</a> | <a href="{{person.email}}">Email</a> | <a href="{{person.orcid}}">Orcid</a> | <a href="{{person.linkedin}}">LinkedIn</a>
->>>>>>> 2fa91646f698d0c88a857e17cb4a1931cf426dc7
      {% endfor %}
       <!--  end graduate student loop -->
 
