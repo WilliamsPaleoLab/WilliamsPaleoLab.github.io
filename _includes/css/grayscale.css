@@ -385,3 +385,7 @@ body {
 .name-header{
   padding-top: 0.5%;
 }
+.section-header{
+  padding-top: 2.5%;
+  color:gray;
+}
