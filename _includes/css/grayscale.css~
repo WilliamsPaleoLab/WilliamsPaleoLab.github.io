@@ -23,7 +23,7 @@ h3,
 h4,
 h5,
 h6 {
-    margin: 0 0 35px;
+    /*margin: 0 0 35px;*/
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
@@ -134,11 +134,12 @@ a:focus {
 .intro {
     display: table;
     width: 100%;
-    height: auto;
+    height: 80%!important;
+    max-height: 80%!important;
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(/img/intro-bg.jpg) no-repeat bottom center scroll;
+    background: url(/img/Fieldwork2014_80dark.jpg) no-repeat bottom center scroll;
     background-color: {{ site.color.primary-dark }};
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -153,6 +154,7 @@ a:focus {
 
 .intro .intro-body .brand-heading {
     font-size: 40px;
+    color:rgba(	255, 255, 255, 0.5);
 }
 
 .intro .intro-body .intro-text {
@@ -214,7 +216,7 @@ a:focus {
     -moz-animation-timing-function: linear;
 }
 
-@-webkit-keyframes pulse {    
+@-webkit-keyframes pulse {
     0 {
         -webkit-transform: scale(1);
         transform: scale(1);
@@ -231,7 +233,7 @@ a:focus {
     }
 }
 
-@-moz-keyframes pulse {    
+@-moz-keyframes pulse {
     0 {
         -moz-transform: scale(1);
         transform: scale(1);
@@ -364,4 +366,15 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
+}
+
+#news{
+  padding-top: 2.5%;
+}
+.span-inline{
+  display: inline-block !important;
+  color:red!important;
+}
+.news-post-header{
+  padding-top: 25px;
 }
