@@ -89,98 +89,99 @@ layout: page
 
 *	Parker N. E. and Williams J. W. (2011) Influences of climate, cattle density, and lake morphology on Sporormiella abundances in modern lake sediments in the US Great Plains. The Holocene. [DOI](10.1177/0959683611425550)
 
-* Bartlein P. J., Harrison S. P., Brewer S., Connor S., Davis B. A. S., Gajewski K., Guiot J., Harrison-Prentice T. I., Henderson A., Peyron O., Prentice I. C., Scholze M., Seppä H., Shuman B., Sugita S., Thompson R. S., Viau A. E., Williams J., and Wu H. (2011) Pollen-based continental climate reconstructions at 6 and 21 ka: a global synthesis. Climate Dynamics 37: 775-802.
+* Bartlein P. J., Harrison S. P., Brewer S., Connor S., Davis B. A. S., Gajewski K., Guiot J., Harrison-Prentice T. I., Henderson A., Peyron O., Prentice I. C., Scholze M., Seppä H., Shuman B., Sugita S., Thompson R. S., Viau A. E., Williams J., and Wu H. (2011) Pollen-based continental climate reconstructions at 6 and 21 ka: a global synthesis. Climate Dynamics 37: 775-802. [DOI](10.1007/s00382-010-0904-1)
 
-* Blois, J. L., Williams, J. W., Grimm, E. C., Jackson, S. T., and Graham, R. W. (2011) A methodological framework for improved paleovegetation mapping from late-Quaternary pollen records. Quaternary Science Reviews 30: 1926-1939.
-48.	Williams, J. W., Blois, J. L., and Shuman, B. N. (2011) Extrinsic and intrinsic forcing of abrupt ecological change:  Case studies from the late Quaternary, Journal of Ecology 99: 667-677.
+* Blois, J. L., Williams, J. W., Grimm, E. C., Jackson, S. T., and Graham, R. W. (2011) A methodological framework for improved paleovegetation mapping from late-Quaternary pollen records. Quaternary Science Reviews 30: 1926-1939. [DOI](10.1016/j.quascirev.2011.04.017)
 
-*	Williams, J. W., Tarasov, P. A., Brewer, S., and Notaro, M. (2011) Late-Quaternary variations in tree cover at the northern forest-tundra ecotone. Journal of Geophysical Research – Biogeosciences 116: G01017.
+*	Williams, J. W., Blois, J. L., and Shuman, B. N. (2011) Extrinsic and intrinsic forcing of abrupt ecological change:  Case studies from the late Quaternary. Journal of Ecology 99: 667-677. [DOI](10.1111/j.1365-2745.2011.01810.x)
 
-*	Notaro, M., Liu, Z., Gallimore, R. G., Williams, J. W., Gutzler, D., and Collins, S. (2010). The complex seasonal cycle of ecohydrology in the southwest United States.  Journal of Geophysical Research – Biogeosciences 115: G04034.
+*	Williams, J. W., Tarasov, P. A., Brewer, S., and Notaro, M. (2011) Late-Quaternary variations in tree cover at the northern forest-tundra ecotone. Journal of Geophysical Research – Biogeosciences 116: G01017. [DOI](10.1029/2010JG001458)
 
-*	Henderson, A. K., Nelson, D. M., Hu, F. S., Huang, Y., Shuman, B. N., and Williams, J. W. (2010). Holocene precipitation seasonality captured by a dual hydrogen and oxygen isotope approach at Steel Lake, Minnesota. Earth and Planetary Science Letters 300: 205-214.
+*	Notaro, M., Liu, Z., Gallimore, R. G., Williams, J. W., Gutzler, D., and Collins, S. (2010). The complex seasonal cycle of ecohydrology in the southwest United States. Journal of Geophysical Research – Biogeosciences 115: G04034. [DOI](10.1029/2010JG001382)
+
+*	Henderson, A. K., Nelson, D. M., Hu, F. S., Huang, Y., Shuman, B. N., and Williams, J. W. (2010). Holocene precipitation seasonality captured by a dual hydrogen and oxygen isotope approach at Steel Lake, Minnesota. Earth and Planetary Science Letters 300: 205-214. [DOI](10.1016/j.epsl.2010.09.024)
 
 *	Liu, Y., Jackson, S. T., Brewer, S., and Williams, J. W. (2010). Assessing antiquity and turnover of terrestrial ecosystems in eastern North America using fossil pollen data: a preliminary study. Pages in IOP Conference Series:  Earth and Environmental Science. [DOI](10.1088/1755-1315/1089/1081/012005)
 
-*	Elias, P. M., Menon, G., Wetzel, B. K., and Williams, J. W. (2010). Barrier requirements as the evolutionary "driver" of epidermal pigmentation in humans. American Journal of Human Biology 22: 526-537.
+*	Elias, P. M., Menon, G., Wetzel, B. K., and Williams, J. W. (2010). Barrier requirements as the evolutionary "driver" of epidermal pigmentation in humans. American Journal of Human Biology 22: 526-537. [DOI](10.1002/ajhb.21043)
 
-*	Tabor, K., and Williams, J. W. (2010). Globally downscaled climate projections for assessing the conservation impacts of climate change. Ecological Applications 20: 554-565.
+*	Tabor, K., and Williams, J. W. (2010). Globally downscaled climate projections for assessing the conservation impacts of climate change. Ecological Applications 20: 554-565. [DOI](10.1890/09-0173.1)
 
-*	Williams, J.W., Shuman, B., Bartlein, P.J., Diffenbaugh, N.S. and Webb, T., III (2010) Rapid, time-transgressive, and variable responses to early-Holocene midcontinental drying in North America.  Geology 38: 135-138.
+*	Williams, J.W., Shuman, B., Bartlein, P.J., Diffenbaugh, N.S. and Webb, T., III (2010) Rapid, time-transgressive, and variable responses to early-Holocene midcontinental drying in North America. Geology 38: 135-138. [DOI](10.1130/G30413.1)
 
-*	Wahl E., Schoelzel C., Williams J., and Tigrek S. (2010) Comment. Journal of the American Statistical Association 105: 900-905.
+*	Wahl E., Schoelzel C., Williams J., and Tigrek S. (2010) Comment. Journal of the American Statistical Association 105: 900-905. [DOI](10.1198/jasa.2010.ap10295)
 
 *	Gill, J. L., Williams, J. W., Jackson, S. T., Lininger, K., and Robinson, G. S. (2009). Pleistocene megafaunal collapse preceded novel plant communities and enhanced fire regimes. Science 326: 1100-1103. [DOI](10.1126/science.1179504) Winner of Ecological Society of America’s Cooper Award. Media attention included interviews with NPR and BBC and articles in the New York Times, the Economist, and Science News.
 
-*	Gonzales, L. M., Williams, J. W., and Grimm, E. C. (2009). Expanded response-surfaces: A new method to reconstruct paleoclimates from fossil pollen assemblages that lack modern analogues. Quaternary Science Reviews 28: 3315-3332.
+*	Gonzales, L. M., Williams, J. W., and Grimm, E. C. (2009). Expanded response-surfaces: A new method to reconstruct paleoclimates from fossil pollen assemblages that lack modern analogues. Quaternary Science Reviews 28: 3315-3332. [DOI](10.1016/j.quascirev.2009.09.005)
 
-* Gonzales, L.M., Grimm, E.C., Williams, J.W. and Nordheim, E. (2009) A modern plant-climate research dataset for modelling eastern North American plant taxa. Grana 48: 1-18.
+* Gonzales, L.M., Grimm, E.C., Williams, J.W. and Nordheim, E. (2009) A modern plant-climate research dataset for modelling eastern North American plant taxa. Grana 48: 1-18. [DOI](10.1080/00173130802711966)
 
-*	Williams, J.W., Shuman, B. and Bartlein, P.J. (2009) Rapid responses of the Midwestern prairie-forest ecotone to early Holocene aridity. Global and Planetary Change 66: 195-207.
+*	Williams, J.W., Shuman, B. and Bartlein, P.J. (2009) Rapid responses of the Midwestern prairie-forest ecotone to early Holocene aridity. Global and Planetary Change 66: 195-207. [DOI](10.1016/j.gloplacha.2008.10.012)
 
-*	Elias, P. M., Menon, G., Wetzel, B. K., and Williams, J. W. (2009). Evidence that stress to the epidermal barrier influenced the development of pigmentation in humans. Pigment Cell and Melanoma Research 22:420-434.
+*	Elias, P. M., Menon, G., Wetzel, B. K., and Williams, J. W. (2009). Evidence that stress to the epidermal barrier influenced the development of pigmentation in humans. Pigment Cell and Melanoma Research 22:420-434. [DOI](10.1111/j.1755-148X.2009.00588.x)
 
-*	Williams, J. W., and Shuman, B. (2008). Obtaining accurate and precise environmental reconstructions from the modern analog technique and North American surface pollen dataset. Quaternary Science Reviews 27:  669-687.
+*	Williams, J. W., and Shuman, B. (2008). Obtaining accurate and precise environmental reconstructions from the modern analog technique and North American surface pollen dataset. Quaternary Science Reviews 27: 669-687. [DOI](10.1016/j.quascirev.2008.01.004)
 
-*	Williams, J. W., Gonzales, L., Kaplan, J. O. (2008) Leaf area index for northern and eastern North America at the Last Glacial Maximum:  A data-model comparison.  Global Ecology and Biogeography 17: 122-134.
+*	Williams, J. W., Gonzales, L., Kaplan, J. O. (2008) Leaf area index for northern and eastern North America at the Last Glacial Maximum:  A data-model comparison. Global Ecology and Biogeography 17: 122-134. [DOI](10.1111/j.1466-8238.2007.00349.x)
 
-*	Gonzales, L., Williams, J. W., Kaplan, J. O. (2008) Variations in leaf area index in northern and eastern North America over the past 21,000 years:  A data-model comparison.  Quaternary Science Reviews 27: 1453-1466.
+*	Gonzales, L., Williams, J. W., Kaplan, J. O. (2008) Variations in leaf area index in northern and eastern North America over the past 21,000 years:  A data-model comparison. Quaternary Science Reviews 27: 1453-1466. [DOI](10.1016/j.quascirev.2008.04.003)
 
-*	Thomas, C.D. Ohlemüller, R., Anderson, B., Hickler, T., Miller, P. A., Sykes, M. T., Williams, J. W. (2008) Exporting the ecological effects of climate change. EMBO Reports, 9 S1: S28-S33.
+*	Thomas, C.D. Ohlemüller, R., Anderson, B., Hickler, T., Miller, P. A., Sykes, M. T., Williams, J. W. (2008) Exporting the ecological effects of climate change. EMBO Reports, 9 S1: S28-S33. [DOI](10.1038/embor.2008.42)
 
-*	Minckley, T.A. Bartlein, P. J., Whitlock, C., Shuman, B. N., Williams, J. W., Davis, O. K. (2008) Associations among modern pollen, vegetation, and climate in western North America. Quaternary Science Reviews, 27: 1939-2094.
+*	Minckley, T.A. Bartlein, P. J., Whitlock, C., Shuman, B. N., Williams, J. W., Davis, O. K. (2008) Associations among modern pollen, vegetation, and climate in western North America. Quaternary Science Reviews, 27: 1939-2094. [DOI](10.1016/j.quascirev.2008.07.006)
 
-*	Williams, J. W. and Jackson, S. T. (2007) Novel Climates, No-Analog Plant Communities, and Ecological Surprises:  Past and Future.  Frontiers in Ecology and the Environment  5: 475-482.  Winner of ESA 100 Notable Papers award.
+*	Williams, J. W. and Jackson, S. T. (2007) Novel Climates, No-Analog Plant Communities, and Ecological Surprises:  Past and Future. Frontiers in Ecology and the Environment 5: 475-482. [DOI](10.1890/070037) Winner of ESA 100 Notable Papers award.
 
 *	Williams, J. W., Jackson, S. T., Kutzbach, J. E. (2007) Projected distributions of novel and disappearing climates by 2100AD.  Proceedings of the National Academy of Sciences 104: 5738-5742. [DOI](10.1073/pnas.0606292104). Media reporting included interviews with NBC Nightly News, NPR All Things Considered, and BBC World News, and articles in Discover Magazine and Science.
 
-* Tarasov, P.E., Williams, J.W., Andreev, A.A., Nakagawa, T., Bezrukova, E., Herzschuh, U., Igarashi, Y., Müller, H. (2007) Satellite- and pollen-based quantitative woody cover reconstructions for northern Asia:  verification and application to late-Quaternary pollen data. Earth and Planetary Science Letters 264: 284-298.
+* Tarasov, P.E., Williams, J.W., Andreev, A.A., Nakagawa, T., Bezrukova, E., Herzschuh, U., Igarashi, Y., Müller, H. (2007) Satellite- and pollen-based quantitative woody cover reconstructions for northern Asia: verification and application to late-Quaternary pollen data. Earth and Planetary Science Letters 264: 284-298. [DOI](10.1016/j.epsl.2007.10.007)
 
 *	Diffenbaugh, N. S., Ashfaq, M., Shuman, B., Williams, J. W., Bartlein, P. J. (2006).  Summer aridity in the United States:  Response to Mid-Holocene changes in insolation and sea surface temperature.  Geophysical Research Letters 33. [DOI](10.1029/2006GL028012)
 
-*	Seabloom, E. W., Williams, J. W., Slayback, D., Stoms, D. M., Viers, J. H., Dobson, A. P. (2006)  Human impacts, plant invasion, and imperiled species in California.  Ecological Applications 16: 1338-1350.
+*	Seabloom, E. W., Williams, J. W., Slayback, D., Stoms, D. M., Viers, J. H., Dobson, A. P. (2006) Human impacts, plant invasion, and imperiled species in California. Ecological Applications 16: 1338-1350. [DOI](10.1890/1051-0761(2006)016[1338:hipiai]2.0.co;2)
 
-*	Notaro, M., Liu, Z., and Williams, J. W. (2006) Observed vegetation-climate feedbacks in the United States. Journal of Climate 19: 763-786.
+*	Notaro, M., Liu, Z., and Williams, J. W. (2006) Observed vegetation-climate feedbacks in the United States. Journal of Climate 19: 763-786. [DOI](10.1175/jcli3657.1)
 
 *	Kutzbach, J. E., Williams, J. W., and Vavrus, S. J. (2005) Simulated 21st century changes in regional water balance of the Great Lakes region and links to changes in global temperature and poleward moisture transport. Geophysical Research Letters 32. [DOI](10.1029/2005GL023506)
 
-*	Jennings, M. D., Williams, J. W., Stromberg, M. R. (2005) Diversity and productivity across plant communities of the inland northwest, USA. Oecologia 143/144: 607-618.
+*	Jennings, M. D., Williams, J. W., Stromberg, M. R. (2005) Diversity and productivity across plant communities of the inland northwest, USA. Oecologia 143/144: 607-618. [DOI](10.1007/s00442-005-0011-x)
 
-*	Williams, J. W., Seabloom, E. W., Slayback, D., Stoms, D. M., Viers, J. H. (2005) Anthropogenic impacts upon plant species richness and net primary productivity in California. Ecology Letters 8: 127-137.
+*	Williams, J. W., Seabloom, E. W., Slayback, D., Stoms, D. M., Viers, J. H. (2005) Anthropogenic impacts upon plant species richness and net primary productivity in California. Ecology Letters 8: 127-137. [DOI](10.1111/j.1461-0248.2004.00706.x)
 
-*	Whitmore, J., Gajewski, K., Sawada, M., Williams, J. W., Shuman, B., Bartlein, P. J., Minckley, T., Viau, A. E., Webb, T., III, Anderson, P. M., and Brubaker, L. B. (2005). North American and Greenland modern pollen data for multi-scale paleoecological and paleoclimatic applications. Quaternary Science Reviews 24, 1828-1848.
+*	Whitmore, J., Gajewski, K., Sawada, M., Williams, J. W., Shuman, B., Bartlein, P. J., Minckley, T., Viau, A. E., Webb, T., III, Anderson, P. M., and Brubaker, L. B. (2005). North American and Greenland modern pollen data for multi-scale paleoecological and paleoclimatic applications. Quaternary Science Reviews 24, 1828-1848. [DOI](10.1016/j.quascirev.2005.03.005)
 
-*	Chalcraft, D. R., Williams, J. W., Smith, M. D., Willig, M. R. (2004) Scale dependence in the species-richness-productivity relationship: The role of species turnover.  Ecology 85: 2701-2708.
+*	Chalcraft, D. R., Williams, J. W., Smith, M. D., Willig, M. R. (2004) Scale dependence in the species-richness-productivity relationship: The role of species turnover. Ecology 85: 2701-2708. [DOI](10.1890/03-0561)
 
-*	Jackson, S. T. and Williams, J. W. (2004) Modern analogs in Quaternary paleoecology:  Here today, gone yesterday, gone tomorrow? Annual Review of Earth and Planetary Sciences 32: 495-537.
+*	Jackson, S. T. and Williams, J. W. (2004) Modern analogs in Quaternary paleoecology:  Here today, gone yesterday, gone tomorrow? Annual Review of Earth and Planetary Sciences 32: 495-537. [DOI](10.1146/annurev.earth.32.101802.120435)
 
-*	Williams, J. W., Shuman, B. N., Webb, T., III, Bartlein, P. J., Leduc, P. (2004) Late Quaternary vegetation dynamics in North America:  Scaling from taxa to biomes.  Ecological Monographs 74: 309-334. Editor’s Choice in Science, May 21, 2004.
+*	Williams, J. W., Shuman, B. N., Webb, T., III, Bartlein, P. J., Leduc, P. (2004) Late Quaternary vegetation dynamics in North America:  Scaling from taxa to biomes. Ecological Monographs 74: 309-334. Editor’s Choice in Science, May 21, 2004. [DOI](10.1890/02-4045)
 
-*	Gavin, D. G., Oswald, W. W., Wahl, E. R., Williams, J. W. (2003) A statistical approach to evaluating distance metrics and analog assignments for pollen records. Quaternary Research 60: 356-367.
+*	Gavin, D. G., Oswald, W. W., Wahl, E. R., Williams, J. W. (2003) A statistical approach to evaluating distance metrics and analog assignments for pollen records. Quaternary Research 60: 356-367. [DOI](10.1016/s0033-5894(03)00088-7)
 
-*	Williams, J. W. and Jackson, S. T. (2003) Palynological and AVHRR observations of modern vegetational gradients in eastern North America.  The Holocene 13: 485-497.
+*	Williams, J. W. and Jackson, S. T. (2003) Palynological and AVHRR observations of modern vegetational gradients in eastern North America. The Holocene 13: 485-497. [DOI](10.1191/0959683603hl613rp)
 
-*	Williams, J. W. (2003)  Variations in tree cover in North America since the Last Glacial Maximum.  Global and Planetary Change 35: 1-23.
+*	Williams, J. W. (2003)  Variations in tree cover in North America since the Last Glacial Maximum. Global and Planetary Change 35: 1-23. [DOI](10.1016/s0921-8181(02)00088-7)
 
-*	Williams, J. W., Post, D. M., Cwynar, L. C., Lotter, A. F., Levesque, A. J.  (2002) Rapid and widespread vegetation responses to past climate change in the North Atlantic region.  Geology 30:  971-974. Featured in Post (2003) TREE commentary.  
+*	Williams, J. W., Post, D. M., Cwynar, L. C., Lotter, A. F., Levesque, A. J.  (2002) Rapid and widespread vegetation responses to past climate change in the North Atlantic region.  Geology 30:  971-974. Featured in Post (2003) TREE commentary. [DOI](10.1130/0091-7613(2002)030<0971:rawvrt>2.0.co;2)
 
-*	Shuman, B. N., Webb III, T., Bartlein, P. J., Williams, J. W. (2002) The anatomy of a climatic oscillation:  Vegetation change in eastern North America during the Younger Dryas chronozone. Quaternary Science Reviews 21:  1777-1791.
+*	Shuman, B. N., Webb III, T., Bartlein, P. J., Williams, J. W. (2002) The anatomy of a climatic oscillation:  Vegetation change in eastern North America during the Younger Dryas chronozone. Quaternary Science Reviews 21:  1777-1791. [DOI](10.1016/s0277-3791(02)00030-6)
 
-*	Williams, J. W., Shuman, B. N., Webb III, T. (2001) Dissimilarity analyses of late-Quaternary vegetation and climate in eastern North America.  Ecology.  82:  3346-3362.  Editor’s Choice in Science (2002) 295: 409. Winner of Ecological Society of America’s Cooper Award.
+*	Williams, J. W., Shuman, B. N., Webb III, T. (2001) Dissimilarity analyses of late-Quaternary vegetation and climate in eastern North America.  Ecology 82:  3346-3362. [DOI](10.1890/0012-9658(2001)082[3346:daolqv]2.0.co;2) Editor’s Choice in Science (2002) 295: 409. Winner of Ecological Society of America’s Cooper Award.
 
-*	Williams, J. W., Webb III, T., Richard, P. J. H., Newby, P. (2000) Late Quaternary biomes of Canada and the eastern United States.  Journal of Biogeography 27: 585-607.
+*	Williams, J. W., Webb III, T., Richard, P. J. H., Newby, P. (2000) Late Quaternary biomes of Canada and the eastern United States. Journal of Biogeography 27: 585-607. [DOI](10.1046/j.1365-2699.2000.00428.x)
 
-*	Edwards, M. E., Anderson, P. M., Brubaker, L. B., Ager, T., Andreev, A. A., Bigelow, N. H., Cwynar, L. C., Eisner, W. R., Harrison, S. P., Hu, F.-S., Jolly, D., Lozhkin, A. V., McDonald, G. M., Mock, C. J., Ritchie, J. C., Sher, A. V., Spear, R. W., Williams, J. W., and Yu, G. (2000) Pollen-based biomes for Beringia 18,000, 6000, and 0 14C yr. B.P.  Journal of Biogeography 27: 521-554.
+*	Edwards, M. E., Anderson, P. M., Brubaker, L. B., Ager, T., Andreev, A. A., Bigelow, N. H., Cwynar, L. C., Eisner, W. R., Harrison, S. P., Hu, F.-S., Jolly, D., Lozhkin, A. V., McDonald, G. M., Mock, C. J., Ritchie, J. C., Sher, A. V., Spear, R. W., Williams, J. W., and Yu, G. (2000) Pollen-based biomes for Beringia 18,000, 6000, and 0 14C yr. B.P. Journal of Biogeography 27: 521-554. [DOI](10.1046/j.1365-2699.2000.00426.x)
 
-*	Williams, J. W., Bartlein, P. J., and Webb III, T. (2000) Data-model comparisons for eastern North America - inferred biomes and climate values from pollen data.  Proceedings of the 3rd Paleoclimate Modeling Intercomparison Project Workshop, Oct. 4-8, 1999. Montreal, Canada. Edited by P. Braconnot. WCRP-111, WMO/TD-No. 1007, pp. 77-86.
+*	Williams, J. W., Bartlein, P. J., and Webb III, T. (2000) Data-model comparisons for eastern North America - inferred biomes and climate values from pollen data. Proceedings of the 3rd Paleoclimate Modeling Intercomparison Project Workshop, Oct. 4-8, 1999. Montreal, Canada. Edited by P. Braconnot. WCRP-111, WMO/TD-No. 1007, pp. 77-86.
 
-*	Williams, J. W., Webb III, T., Shuman, B. N., and Bartlein, P. J. (2000) Do low CO2 concentrations affect pollen-based reconstructions of LGM climates? A response to ‘Physiological significance of low atmospheric CO2 for plant-climate interactions’ by Cowling and Sykes. Quaternary Research 53: 402-404.
+*	Williams, J. W., Webb III, T., Shuman, B. N., and Bartlein, P. J. (2000) Do low CO2 concentrations affect pollen-based reconstructions of LGM climates? A response to ‘Physiological significance of low atmospheric CO2 for plant-climate interactions’ by Cowling and Sykes. Quaternary Research 53: 402-404. [DOI](10.1006/qres.2000.2131)
 
-*	Jackson, S. T., Webb, R. S., Anderson, K. H., Overpeck, J. T., Webb III, T., Williams, J. W., and Hansen, B. C. S. (2000)  Vegetation and environments in eastern North America during the last glacial maximum. Quaternary Science Reviews 19: 489-508.
+*	Jackson, S. T., Webb, R. S., Anderson, K. H., Overpeck, J. T., Webb III, T., Williams, J. W., and Hansen, B. C. S. (2000) Vegetation and environments in eastern North America during the last glacial maximum. Quaternary Science Reviews 19: 489-508. [DOI](10.2307/1940469)
 
-*	Williams, J. W., Summers, R., and Webb III, T. (1998) Applying plant functional types to construct biome maps from eastern North American pollen data: comparisons with model results. Quaternary Science Reviews 17: 607-627.
+*	Williams, J. W., Summers, R., and Webb III, T. (1998) Applying plant functional types to construct biome maps from eastern North American pollen data: comparisons with model results. Quaternary Science Reviews 17: 607-627. [DOI](10.1016/s0277-3791(98)00014-6)
 
-*	Williams, J. W. (1995) Factors controlling the formation of fossiliferous beds in the Devonian Columbus limestone at Marblehead Quarry, Marblehead, Ohio.  Ohio Journal of Sciences 95:  325-330.  (OJS Paper of the Year)
+*	Williams, J. W. (1995) Factors controlling the formation of fossiliferous beds in the Devonian Columbus limestone at Marblehead Quarry, Marblehead, Ohio. Ohio Journal of Sciences 95:  325-330.  (OJS Paper of the Year)
 
 ## Non-Peer-Reviewed Journal Articles
 
