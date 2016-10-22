@@ -7,6 +7,6 @@ twitter: "http://twitter.com/yuewang_YW"
 email: "ywang327@wisc.edu"
 website: "to be released soon"
 orcid: "http://orcid.org/0000-0002-9826-3276"
-photo: "http://www.geography.wisc.edu/faculty/williams/lab/images/Yue_Wang_2014.jpg"
+photo: "YueWang.JPG"
 last: "Wang"
 ---
