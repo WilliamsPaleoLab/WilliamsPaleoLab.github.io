@@ -31,6 +31,9 @@ social:
 markdown: kramdown
 permalink: pretty
 
+## this is the directory we serve from
+baseurl: ""
+
 ##People
 collections:
   people:
