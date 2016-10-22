@@ -1,0 +1,11 @@
+
+<div class='container' id='news'>
+  <h3 id='news-header'>Recent Happenings</h3>
+  {% for newspost in site.posts  limit:10 %} <!-- iterate through the matching professors -->
+    <h4 class='news-post-header'>{{ newspost.title }}<i class='text-muted small'> {{ newspost.date | date: '%B %d, %Y' }}</i></h4>
+
+    <p class='text-muted news-blurb'>
+      {{newspost.blurb}}
+    </p>
+  {% endfor %}
+</div>
