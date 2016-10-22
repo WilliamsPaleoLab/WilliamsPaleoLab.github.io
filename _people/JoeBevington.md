@@ -7,5 +7,6 @@ twitter:
 email: "jbevington@wisc.edu"
 website:
 orcid:
-photo: 
+photo:
+last: "Bevington"
 ---
