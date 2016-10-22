@@ -8,7 +8,7 @@
 
     <!-- PIs.  Use list just in case we want to add another prof -->
     {% assign professors = site.people | where:'role', 'Professor' %} <!-- select from the templates -->
-    {% for person in professors | where:"role","Graduate Student"  %} <!-- iterate through the matching professors -->
+    {% for person in professors  %} <!-- iterate through the matching professors -->
       <h2 class='page-header'>{{ person.name }}</h2>
       <img src="{{person.photo}}" />
       <p>
