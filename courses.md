@@ -4,8 +4,12 @@ layout: page
 ---
 
 ### Courses we teach
+
 #### Geog/NIES 120 Introduction to the Earth System
-##### [*(SAMPLE SYLLABUS)*](http://geography.wisc.edu/courses/syllabi/120_fall.pdf) Geog120 introduces students to how the Earth system works, what makes Earth livable, and the diverse processes linking the atmosphere, oceans, and earth's surface. Many students take this course to fulfill their physical science requirement. Others use it as a gateway to majors and careers in Geography, Environmental Studies, and Environmental Science.
+
+##### [*(SAMPLE SYLLABUS)*](http://geography.wisc.edu/courses/syllabi/120_fall.pdf)
+
+Geog120 introduces students to how the Earth system works, what makes Earth livable, and the diverse processes linking the atmosphere, oceans, and earth's surface. Many students take this course to fulfill their physical science requirement. Others use it as a gateway to majors and careers in Geography, Environmental Studies, and Environmental Science.
 
 ##### Geog/NIES/AOS 331 Climatic Environments of the Past
 [*(SAMPLE SYLLABUS)*](http://geography.wisc.edu/courses/syllabi/331_fall.pdf) This class focuses on climatic changes during the Quaternary Period, which encompasses the last 2.6 million years, includes the rise of human civilizations, and extends to the present day.  Climatically, the defining characteristics of the Quaternary are 1) regular cycles between glacial and interglacial periods and 2) abrupt shifts in the state of the climate system.  Understanding the sources and causes of past climatic variability is a necessary precondition to understanding why climates are changing today and making informed projections for the future.  
