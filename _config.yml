@@ -34,7 +34,7 @@ permalink: pretty
 ## this is the directory we serve from
 baseurl: ""
 
-gems: ['jekyll/scholar']
+# gems: ['jekyll/scholar']
 
 ##People
 collections:
@@ -44,30 +44,30 @@ collections:
 
 
 
-scholar:
-  style: apa
-  locale: en
-
-  sort_by: none
-  order: ascending
-
-  group_by: none
-  group_order: ascending
-
-  source: ./_bibliography
-  bibliography: bibliography.bib
-  bibliography_template: "{{reference}}"
-
-  replace_strings: true
-  join_strings:    true
-
-  use_raw_bibtex_entry: true
-  bibtex_filters:
-  - superscript
-  - latex
-
-  details_dir:    bibliography
-  details_layout: bibtex.html
-  details_link:   Details
-
-  query: "@*"
+# scholar:
+#   style: apa
+#   locale: en
+#
+#   sort_by: none
+#   order: ascending
+#
+#   group_by: none
+#   group_order: ascending
+#
+#   source: ./_bibliography
+#   bibliography: bibliography.bib
+#   bibliography_template: "{{reference}}"
+#
+#   replace_strings: true
+#   join_strings:    true
+#
+#   use_raw_bibtex_entry: true
+#   bibtex_filters:
+#   - superscript
+#   - latex
+#
+#   details_dir:    bibliography
+#   details_layout: bibtex.html
+#   details_link:   Details
+#
+#   query: "@*"
