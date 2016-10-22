@@ -8,110 +8,111 @@
 <div class='container'>
     <!-- PIs.  Use list just in case we want to add another prof -->
     {% assign professors = site.people | where:'role', 'Professor' %} <!-- select from the templates -->
-    {% for person in professors  %} <!-- iterate through the matching professors -->
-      <h4 class='page-header'>{{ person.name }}</h4>
-      <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}" />
-      <p>
-        {{person.biography}}
-      </p>
-      <ul>
-        <li>
-           <a href="{{person.website}}">Website</a> | <a href="{{person.twitter}}">Twitter</a> | <a href="{{person.email}}">Email</a> | <a href="{{person.orcid}}">Orcid</a> | <a href="{{person.linkedin}}">LinkedIn</a>
-        </li>
-      </ul>
+    {% for person in professors sort_by:last %} <!-- iterate through the matching professors -->
+    <h4 class='page-header name-header'>{{ person.name }}</h4>
+    <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}"  class='img-responsive col-xs-2'/>
+    <p class='col-xs-10'>
+      {{person.biography}}
+    </p>
+     {% if person.website %}
+        <a href="{{person.website}}">Website</a>
+	{% endif %} | 
+     {% if person.twitter %}
+        <a href="{{person.twitter}}">Twitter</a>
+        {% endif %} |
+     {% if person.email %}
+        <a href="mailto:{{person.email}}">Email</a>
+        {% endif %} |
+     {% if person.orcid %}
+        <a href="{{person.orcid}}">Orcid</a>
+	{% endif %} |
+     {% if person.linkedin %}
+        <a href="{{person.linkedin}}">LinkedIn</a>
+        {% endif %}
     {% endfor %}
      <!--  end professor loop -->
 
-     <h3>Postdoctoral Researchers</h3>
+     <h3 class='section-header'>Postdoctoral Researchers</h3>
      <!-- do graduate students now -->
      {% assign postdocs = site.people | where:'role', 'Postdoc' %} <!-- select from the templates for postdocs -->
-     {% for person in postdocs  %} <!-- iterate through the matching postdocs -->
-       <h4 class='page-header'>{{ person.name }}</h4>
-       <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}" />
-       <p>
-         {{person.biography}}
-       </p>
-       <h5>Contact</h5>
-       <ul>
-         <li>
-           Website: <a href="{{person.website}}">Web</a>
-         </li>
-         <li>
-           Twitter: <a href="{{person.twitter}}">Twitter</a>
-         </li>
-         <li>
-           Email: <a href="{{person.email}}">Email</a>
-         </li>
-         <li>
-           Orcid: <a href="{{person.orcid}}">Orcid</a>
-         </li>
-         <li>
-           LinkedIn: <a href="{{person.linkedin}}">LinkedIn</a>
-         </li>
-       </ul>
+     {% for person in postdocs sort_by:last  %} <!-- iterate through the matching postdocs -->
+     <h4 class='page-header name-header'>{{ person.name }}</h4>
+     <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}"  class='img-responsive col-xs-2'/>
+     <p class='col-xs-10'>
+       {{person.biography}}
+     </p>
+     {% if person.website %}
+        <a href="{{person.website}}">Website</a>
+	{% endif %} | 
+     {% if person.twitter %}
+        <a href="{{person.twitter}}">Twitter</a>
+        {% endif %} |
+     {% if person.email %}
+        <a href="mailto:{{person.email}}">Email</a>
+        {% endif %} |
+     {% if person.orcid %}
+        <a href="{{person.orcid}}">Orcid</a>
+	{% endif %} |
+     {% if person.linkedin %}
+        <a href="{{person.linkedin}}">LinkedIn</a>
+        {% endif %}
      {% endfor %}
       <!--  end postdocs loop -->
 
-     <h3> Graduate Students</h3>
+     <h3 class='section-header'> Graduate Students</h3>
      <!-- do graduate students now -->
      {% assign grads = site.people | where:'role', 'Graduate Student' %} <!-- select from the templates for graduate students -->
-     {% for person in grads  %} <!-- iterate through the matching grads -->
-       <h4 class='page-header'>{{ person.name }}</h4>
-       <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}" />
-       <p>
+     {% for person in grads sort_by:last %} <!-- iterate through the matching grads -->
+       <h4 class='page-header name-header'>{{ person.name }}</h4>
+       <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}"  class='img-responsive col-xs-2'/>
+       <p class='col-xs-10'>
          {{person.biography}}
        </p>
-       <h5>Contact</h5>
-       <ul>
-         <li>
-           Website: <a href="{{person.website}}">Web</a>
-         </li>
-         <li>
-           Twitter: <a href="{{person.twitter}}">Twitter</a>
-         </li>
-         <li>
-           Email: <a href="{{person.email}}">Email</a>
-         </li>
-         <li>
-           Orcid: <a href="{{person.orcid}}">Orcid</a>
-         </li>
-         <li>
-           LinkedIn: <a href="{{person.linkedin}}">LinkedIn</a>
-         </li>
-       </ul>
+     {% if person.website %}
+        <a href="{{person.website}}">Website</a>
+	{% endif %} | 
+     {% if person.twitter %}
+        <a href="{{person.twitter}}">Twitter</a>
+        {% endif %} |
+     {% if person.email %}
+        <a href="mailto:{{person.email}}">Email</a>
+        {% endif %} |
+     {% if person.orcid %}
+        <a href="{{person.orcid}}">Orcid</a>
+	{% endif %} |
+     {% if person.linkedin %}
+        <a href="{{person.linkedin}}">LinkedIn</a>
+        {% endif %}
      {% endfor %}
       <!--  end graduate student loop -->
 
-      <h3>Undergraduates</h3>
+      <h3 class='section-header'>Undergraduates</h3>
       <!-- do graduate students now -->
       {% assign undergrads = site.people | where:'role', 'Undergraduate' %} <!-- select from the templates for undergrads -->
-      {% for person in undergrads  %} <!-- iterate through the matching undegrads -->
-        <h4 class='page-header'>{{ person.name }}</h4>
-        <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}" />
-        <p>
-          {{person.biography}}
-        </p>
-        <h5>Contact</h5>
-        <ul>
-          <li>
-            Website: <a href="{{person.website}}">Web</a>
-          </li>
-          <li>
-            Twitter: <a href="{{person.twitter}}">Twitter</a>
-          </li>
-          <li>
-            Email: <a href="{{person.email}}">Email</a>
-          </li>
-          <li>
-            Orcid: <a href="{{person.orcid}}">Orcid</a>
-          </li>
-          <li>
-            LinkedIn: <a href="{{person.linkedin}}">LinkedIn</a>
-          </li>
-        </ul>
-      {% endfor %}
-
+      {% for person in undergrads  sort_by:last %} <!-- iterate through the matching undegrads -->
+      <h4 class='page-header name-header'>{{ person.name }}</h4>
+      <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}"  class='img-responsive col-xs-2'/>
+      <p class='col-xs-10'>
+        {{person.biography}}
+      </p>
+     {% if person.website %}
+        <a href="{{person.website}}">Website</a>
+	{% endif %} | 
+     {% if person.twitter %}
+        <a href="{{person.twitter}}">Twitter</a>
+        {% endif %} |
+     {% if person.email %}
+        <a href="mailto:{{person.email}}">Email</a>
+        {% endif %} |
+     {% if person.orcid %}
+        <a href="{{person.orcid}}">Orcid</a>
+	{% endif %} |
+     {% if person.linkedin %}
+        <a href="{{person.linkedin}}">LinkedIn</a>
+        {% endif %}
+     {% endfor %}
   </div>
        <!--  end undergrads loop -->
+           {% include footer.html %}
     </body>
 </html>

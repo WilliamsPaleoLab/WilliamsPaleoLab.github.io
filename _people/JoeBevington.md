@@ -8,4 +8,5 @@ email: "jbevington@wisc.edu"
 website:
 orcid: "orcid.org/0000-0002-0923-4968"
 photo: "BevingtonFieldWork.jpg"
+last: "Bevington"
 ---
