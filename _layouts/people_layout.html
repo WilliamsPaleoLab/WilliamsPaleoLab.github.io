@@ -14,7 +14,21 @@
     <p class='col-xs-10'>
       {{person.biography}}
     </p>
-   <a href="{{person.website}}">Website</a> | <a href="{{person.twitter}}">Twitter</a> | <a href="mailto:{{person.email}}">Email</a> | <a href="{{person.orcid}}">Orcid</a> | <a href="{{person.linkedin}}">LinkedIn</a>
+     {% if person.website %}
+        <a href="{{person.website}}">Website</a>
+	{% endif %} | 
+     {% if person.twitter %}
+        <a href="{{person.twitter}}">Twitter</a>
+        {% endif %} |
+     {% if person.email %}
+        <a href="mailto:{{person.email}}">Email</a>
+        {% endif %} |
+     {% if person.orcid %}
+        <a href="{{person.orcid}}">Orcid</a>
+	{% endif %} |
+     {% if person.linkedin %}
+        <a href="{{person.linkedin}}">LinkedIn</a>
+        {% endif %}
     {% endfor %}
      <!--  end professor loop -->
 
@@ -27,7 +41,21 @@
      <p class='col-xs-10'>
        {{person.biography}}
      </p>
-        <a href="{{person.website}}">Website</a> | <a href="{{person.twitter}}">Twitter</a> | <a href="mailto:{{person.email}}">Email</a> | <a href="{{person.orcid}}">Orcid</a> | <a href="{{person.linkedin}}">LinkedIn</a>
+     {% if person.website %}
+        <a href="{{person.website}}">Website</a>
+	{% endif %} | 
+     {% if person.twitter %}
+        <a href="{{person.twitter}}">Twitter</a>
+        {% endif %} |
+     {% if person.email %}
+        <a href="mailto:{{person.email}}">Email</a>
+        {% endif %} |
+     {% if person.orcid %}
+        <a href="{{person.orcid}}">Orcid</a>
+	{% endif %} |
+     {% if person.linkedin %}
+        <a href="{{person.linkedin}}">LinkedIn</a>
+        {% endif %}
      {% endfor %}
       <!--  end postdocs loop -->
 
@@ -40,7 +68,21 @@
        <p class='col-xs-10'>
          {{person.biography}}
        </p>
-            <a href="{{person.website}}">Website</a> | <a href="{{person.twitter}}">Twitter</a> | <a href="mailto:{{person.email}}">Email</a> | <a href="{{person.orcid}}">Orcid</a> | <a href="{{person.linkedin}}">LinkedIn</a>
+     {% if person.website %}
+        <a href="{{person.website}}">Website</a>
+	{% endif %} | 
+     {% if person.twitter %}
+        <a href="{{person.twitter}}">Twitter</a>
+        {% endif %} |
+     {% if person.email %}
+        <a href="mailto:{{person.email}}">Email</a>
+        {% endif %} |
+     {% if person.orcid %}
+        <a href="{{person.orcid}}">Orcid</a>
+	{% endif %} |
+     {% if person.linkedin %}
+        <a href="{{person.linkedin}}">LinkedIn</a>
+        {% endif %}
      {% endfor %}
       <!--  end graduate student loop -->
 
@@ -53,10 +95,22 @@
       <p class='col-xs-10'>
         {{person.biography}}
       </p>
-        <h5>Contact</h5>
-             <a href="{{person.website}}">Website</a> | <a href="{{person.twitter}}">Twitter</a> | <a href="mailto:{{person.email}}">Email</a> | <a href="{{person.orcid}}">Orcid</a> | <a href="{{person.linkedin}}">LinkedIn</a>
-      {% endfor %}
-
+     {% if person.website %}
+        <a href="{{person.website}}">Website</a>
+	{% endif %} | 
+     {% if person.twitter %}
+        <a href="{{person.twitter}}">Twitter</a>
+        {% endif %} |
+     {% if person.email %}
+        <a href="mailto:{{person.email}}">Email</a>
+        {% endif %} |
+     {% if person.orcid %}
+        <a href="{{person.orcid}}">Orcid</a>
+	{% endif %} |
+     {% if person.linkedin %}
+        <a href="{{person.linkedin}}">LinkedIn</a>
+        {% endif %}
+     {% endfor %}
   </div>
        <!--  end undergrads loop -->
            {% include footer.html %}
