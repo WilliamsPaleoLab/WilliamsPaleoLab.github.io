@@ -5,5 +5,5 @@ role: "Graduate Student"
 email: "fastovich@wisc.edu"
 orcid: "http://orcid.org/0000-0002-0340-9819"
 photo: "DavidFastovich.jpg"
-last: "Fastovich"
+seniority: "4"
 ---

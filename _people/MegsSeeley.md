@@ -7,5 +7,5 @@ email: "mseeley@wisc.edu"
 website: "https://megsseeley.wordpress.com/"
 orcid: "http://orcid.org/0000-0003-1945-1162"
 photo: "Megs.jpg"
-last: "Seeley"
+seniority: "2"
 ---

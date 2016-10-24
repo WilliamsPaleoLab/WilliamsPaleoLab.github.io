@@ -154,7 +154,7 @@ a:focus {
 
 .intro .intro-body .brand-heading {
     font-size: 40px;
-    color:rgba(	255, 255, 255, 0.5);
+    color:rgba(	255, 255, 255, 1);
 }
 
 .intro .intro-body .intro-text {
@@ -377,4 +377,15 @@ body {
 }
 .news-post-header{
   padding-top: 25px;
+}
+
+.post-content{
+  margin-top: 5%;
+}
+.name-header{
+  padding-top: 0.5%;
+}
+.section-header{
+  padding-top: 2.5%;
+  color:gray;
 }
