@@ -8,9 +8,9 @@ description: "Paleoecology - Paleoclimatology - Global Climate Change - Quaterna
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-dark: '#333A56'
-  primary-light: '#F7F5E6'
-  links: '#52658F'
+  primary-dark: '#b70101'
+  primary-light: '#eee5c7'
+  links: '#b70101'
 
 # Footer settings
 footer: Williams Paleo Lab

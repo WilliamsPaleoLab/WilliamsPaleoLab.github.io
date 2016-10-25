@@ -32,7 +32,7 @@
     {% endfor %}
      <!--  end professor loop -->
 
-     <h3 class='section-header'>Postdoctoral Researchers</h3>
+     <h3 class='page-header section-header'>Postdoctoral Researchers</h3>
      <!-- do postdocs now -->
      {% assign postdocs = site.people | where:'role', 'Postdoc' | sort:'seniority %} <!-- select from the templates for postdocs -->
      {% for person in postdocs %} <!-- iterate through the matching postdocs -->
@@ -59,7 +59,7 @@
     {% endfor %}
       <!--  end postdocs loop -->
 
-     <h3 class='section-header'>Graduate Students</h3>
+     <h3 class='page-header section-header'>Graduate Students</h3>
      <!-- do graduate students now -->
      {% assign grads = site.people | where:'role', 'Graduate Student' | sort:'seniority' %} <!-- select from the templates for graduate students -->
      {% for person in grads %} <!-- iterate through the matching grads -->
@@ -86,8 +86,8 @@
     {% endfor %}
       <!--  end graduate student loop -->
 
-      <h3 class='section-header'>Undergraduates</h3>
-      <!-- do graduate students now -->
+      <h3 class='page-header section-header'>Undergraduates</h3>
+      <!-- do undergraduate students now -->
       {% assign undergrads = site.people | where:'role', 'Undergraduate' | sort:'seniority %} <!-- select from the templates for undergrads -->
       {% for person in undergrads  %} <!-- iterate through the matching undegrads -->
       <h4 class='page-header name-header'>{{ person.name }}</h4>

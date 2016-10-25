@@ -2,14 +2,15 @@
 
 title: Williams Lab
 email: jwwilliams1@wisc.edu
-url: https://example.github.io
+url: https://williamspaleolab.github.io
 description: "Paleoecology - Paleoclimatology - Global Climate Change - Quaternary Environments."
 
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-dark: '#000000'
-  links: '#219ab3'
+  primary-dark: '#333A56'
+  primary-light: '#F7F5E6'
+  links: '#52658F'
 
 # Footer settings
 footer: Williams Paleo Lab
