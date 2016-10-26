@@ -12,7 +12,7 @@ layout: page
 ##### [**SYLLABUS**](http://geography.wisc.edu/courses/syllabi/120_fall.pdf)
 
 Geog120 introduces students to how the Earth system works, what makes Earth livable, and the diverse processes linking the atmosphere, oceans, and earth's surface. Many students take this course to fulfill their physical science requirement. Others use it as a gateway to majors and careers in Geography, Environmental Studies, and Environmental Science.
-***
+
 
 #### _**Geog/NIES/AOS 331 Climatic Environments of the Past**_
 
@@ -35,13 +35,3 @@ Geog523 explores the responses of plant species and ecosystems to the climate ch
 #### Geog9XX: Graduate Seminars
 
 Prior seminar topics include:  *Abrupt Changes in Ecological Systems (ACES)*, *Conservation Paleoecology*, and *the Earth System Seminar*.
-
-### Other recommended upper-level courses at UW-Madison
-
-#### Geography
-
-#### Ecology
-
-#### Statistics
-
-#### Climatology and Atmospheric Sciences
