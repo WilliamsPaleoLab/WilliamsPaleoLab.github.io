@@ -32,3 +32,14 @@
   7.  Run ```jekyll build```
   8.  Commit your changes.
   
+#### Adding a New Page
+  1.  Create a new markdown file in the root (top level) directory.  
+  2. Put a YAML header. Make sure it contains the line ```layout: page```
+  3.  Write your page in markdown.
+  4.  Run ```jekyll build```
+  5.  Commit your changes.
+  
+#### Linking to New Top-Level Pages
+When linking to top-level pages, make sure you link to ```href="{{site.baseurl}}/NameOfPage/```.  This tells the link to go to the root of the website, then look for your page name.  If you don't include ```{{site.baseurl}}```, you may encounter problems with relative paths.  If you include the file extension if the NameOfPage, you may find that the name is unknown.  For this reason, don't include the file extension (e.g., ```.html```), instead, put a trailing slash (e.g., ```/```).  This can be done in the ```nav.html``` document to put a new link in the navigation bar. To link to pages within markdown, you can just use markdown links.
+  
+
