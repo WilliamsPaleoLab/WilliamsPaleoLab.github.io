@@ -1,7 +1,7 @@
 ---
 name: "Simon J. Goring"
 biography: "I am an Assistant Scientist with an interest in climate-vegetation relationships and informatics across ecology & geoscience disciplines."
-role: "Research Scientist"
+role: "Postdoc"
 linkedin: "https://www.linkedin.com/in/simon-goring-376105b3"
 twitter: "https://twitter.com/sjGoring"
 email: "goring@wisc.edu"
