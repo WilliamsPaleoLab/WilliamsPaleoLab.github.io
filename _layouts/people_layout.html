@@ -34,7 +34,7 @@
 
      <h3 class='page-header section-header'>Research Scientists and Postdoctoral Researchers</h3>
      <!-- do postdocs now -->
-     {% assign postdocs = site.people | where:'role', 'Postdoc' | sort:'seniority %} <!-- select from the templates for postdocs -->
+     {% assign postdocs = site.people | where:'role', 'Postdoc' | sort:'seniority' %} <!-- select from the templates for postdocs -->
      {% for person in postdocs %} <!-- iterate through the matching postdocs -->
      <h4 class='page-header name-header'>{{ person.name }}</h4>
      <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}"  class='img-responsive col-xs-2'/>

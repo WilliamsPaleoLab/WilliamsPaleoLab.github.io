@@ -7,4 +7,5 @@ website: "https://allisonstegner.com/"
 orcid: "http://orcid.org/0000-0002-1412-8203"
 photo: "Allison.jpg"
 last: "Stegner"
+seniority: "2"
 ---
