@@ -7,8 +7,6 @@ layout: page
 
 ### Databases and Datasets
 ***
-### _**Neotoma Paleoecology Database**_
-#### Neotoma Paleoecology Database
 #### _**Neotoma Paleoecology Database**_
 [Neotoma](https://www.neotomadb.org)  is a community-curated data repository for paleoecological data for the Plio-Pleistocene.  Neotoma is widely used to study the spatial responses of species and communities to past environmental change.
 #### _**Earth Life Consortium**_
