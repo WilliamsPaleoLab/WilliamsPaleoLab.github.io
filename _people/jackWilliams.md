@@ -8,5 +8,7 @@ twitter: "http://twitter.com/IceAgeEcologist"
 email: "jwwilliams1@wisc.edu"
 website: "http://geography.wisc.edu/faculty/profile.php?p=51  "
 orcid: "http://orcid.org/0000-0001-6046-9634"
+researchgate: "https://www.researchgate.net/profile/John_Williams39"
+googlescholar: "https://scholar.google.com/citations?user=6Qq8QaMAAAAJ&hl=en"
 seniority: "1"
 ---
