@@ -76,7 +76,7 @@
        </p>
      {% if person.website %}
         <a href="{{person.website}}">Website</a> |
-	{% endif %}
+	      {% endif %}
      {% if person.twitter %}
         <a href="{{person.twitter}}">Twitter</a> |
         {% endif %}
@@ -85,7 +85,7 @@
         {% endif %}
      {% if person.orcid %}
         <a href="{{person.orcid}}">Orcid</a> |
-	{% endif %}
+	      {% endif %}
      {% if person.email %}
         <a href="mailto:{{person.email}}">Email</a>
         {% endif %}
@@ -103,7 +103,7 @@
       </p>
      {% if person.website %}
         <a href="{{person.website}}">Website</a> |
-	{% endif %}
+	      {% endif %}
      {% if person.twitter %}
         <a href="{{person.twitter}}">Twitter</a> |
         {% endif %}
@@ -112,13 +112,30 @@
         {% endif %}
      {% if person.orcid %}
         <a href="{{person.orcid}}">Orcid</a> |
-	{% endif %}
+	      {% endif %}
      {% if person.email %}
         <a href="mailto:{{person.email}}">Email</a>
         {% endif %}
     {% endfor %}
+    <!--  end undergrads loop -->
+
+    <h3 class='page-header section-header'>Alummi</h3>
+    <!-- do alumni now -->
+    {% assign alumni = site.people | where:'role', 'Alumni' | sort:'seniority %} <!-- select from the templates for undergrads -->
+    {% for person in alumni  %} <!-- iterate through the matching undegrads -->
+    <h4 class='page-header name-header'>{{ person.name }}</h4>
+   {% if person.website %}
+      <a href="{{person.website}}">Website</a> |
+      {% endif %}
+   {% if person.orcid %}
+      <a href="{{person.orcid}}">Orcid</a> |
+      {% endif %}
+   {% if person.email %}
+      <a href="mailto:{{person.email}}">Email</a>
+      {% endif %}
+  {% endfor %}
+  <!--  end alumni loop -->
   </div>
-       <!--  end undergrads loop -->
     </body>
 {% include footer.html %}
 {% include js.html %}
