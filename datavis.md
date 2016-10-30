@@ -6,6 +6,8 @@ layout: page
 ## Data and Visualizations
 
 ### Databases and Datasets
+***
+#### _**Neotoma Paleoecology Database**_
 #### _**Neotoma Paleoecology Database**_
 [Neotoma](https://www.neotomadb.org)  is a community-curated data repository for paleoecological data for the Plio-Pleistocene.  Neotoma is widely used to study the spatial responses of species and communities to past environmental change.
 #### _**Earth Life Consortium**_
@@ -16,6 +18,7 @@ Archived on [Dryad](http://datadryad.org/resource/doi:10.5061/dryad.1597g.2).  D
 The NAPMD archives pollen surface samples from North America, along with attributed climatic and vegetational data for each location. A full description of the dataset and its compilation is provided by Whitmore et al. (2005). This data is the foundation for a new atlas of modern pollen-climate and pollen-vegetation relationships (Williams et al., 2006). Additionally, PDFs of maps and climate-vegetation-pollen plots are available at [NOAA](http://www.ncdc.noaa.gov/paleo/pubs/williams2006/williams2006.html).
 
 ### Visualizations
+***
 #### _**Ice Age Mapper**_
 [Ice Age Mapper](http://paleo.geography.wisc.edu/)  is an interactive map interface that allows you to view animated maps of species distributions since the last ice age.  IAM is a successor to Pollen Viewer and is in development (Nov 2016).
 #### _**Settlement-Era Maps of Tree Composition**_
@@ -30,6 +33,7 @@ The [climate analog mapper](http://www.wicci.wisc.edu/climate-map.php) allows yo
 Public presentations about climate change, ecological responses to climate change, and other topics are posted to [figShare](https://figshare.com/search?q=john+williams&quick=1).
 
 ### Code & Software
+***
 #### _**GitHub**_
 We use GitHub to share code for individual and group research projects.  [Williams Lab](https://github.com/WilliamsLabPaleo) holds code for group projects.  See the People page for GitHub links for individual accounts.  
 #### _**Tilia**_
@@ -38,8 +42,10 @@ We use GitHub to share code for individual and group research projects.  [Willia
 [Flyover Country](http://fc.umn.edu/) iOS and Android App for viewing geological data while flying, driving, and traveling.  Includes Neotoma data!
 
 ## Older Resources
+***
 These materials are less up-to-date but are maintained for purposes of archival and reproducibility.
 ### Databases and Datasets
+***
 #### _**Modern Plant-Climate Research Dataset for Eastern North American Plant Taxa **_
 This research dataset was created by Gonzales et al. (2009a,b) from the North American Modern Pollen Database (version 1.6.1) (Whitmore et al., 2005) with the purpose of modeling plant-climate relationships for taxa in eastern North America. The dataset contains 2,613 sites in eastern North America and Canada. Although the primary purpose for creating this dataset was to model late-glacial pollen-climate relationships in eastern North America, other potential uses of this dataset include vegetation reconstruction at local to subcontinental scales and forward modeling of pollen and vegetation from climate variables. For regional- to subcontinental-scale climate and vegetation reconstructions for eastern North America, the research dataset can be used without further modification.
 #### _**Climate-Dissimilarity Dataset  **_
