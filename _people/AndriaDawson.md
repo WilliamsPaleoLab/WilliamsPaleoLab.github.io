@@ -4,6 +4,6 @@ biography: "I am a postdoc with the PalEON project. My interests are in using qu
 role: "Postdoc"
 twitter: "https://twitter.com/AndriaEDawson"
 email: "andria.dawson@gmail.com"
-photo: "AndriaDawson.jpg"
+photo: "andriaDawson.jpg"
 seniority: "1"
 ---
