@@ -10,5 +10,5 @@ website: "https://jacquelyngill.wordpress.com/  "
 orcid: "https://orcid.org/0000-0003-0003-6620"
 researchgate: "[Not used for alumni]"
 googlescholar: "[Not used for alumni]"
-seniority: "100"
+seniority: "3"
 ---
