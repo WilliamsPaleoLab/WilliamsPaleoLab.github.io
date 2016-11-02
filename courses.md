@@ -3,7 +3,7 @@ title: "Courses"
 layout: page
 ---
 
-### Courses Taught
+## Courses Taught
 
 ***
 
