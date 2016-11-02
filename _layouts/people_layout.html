@@ -115,7 +115,7 @@
 
       <h3 class='page-header section-header'>Undergraduates</h3>
       <!-- do undergraduate students now -->
-      {% assign undergrads = site.people | where:'role', 'Undergraduate' | sort:'seniority %} <!-- select from the templates for undergrads -->
+      {% assign undergrads = site.people | where:'role', 'Undergraduate' | sort:'seniority' %} <!-- select from the templates for undergrads -->
       {% for person in undergrads  %} <!-- iterate through the matching undegrads -->
       <h4 class='page-header name-header'>{{ person.name }}</h4>
       <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}"  class='img-responsive col-xs-2'/>
@@ -151,7 +151,7 @@
 
     <h3 class='page-header section-header'>Alummi</h3>
     <!-- do alumni now -->
-    {% assign alumni = site.people | where:'role', 'Alumni' | sort:'seniority %} <!-- select from the templates for undergrads -->
+    {% assign alumni = site.people | where:'role', 'Alumni' | sort:'seniority' %} <!-- select from the templates for undergrads -->
     {% for person in alumni  %} <!-- iterate through the matching undegrads -->
     <h4 class='page-header name-header'>{{ person.name }}</h4>
     {% if person.website %}
