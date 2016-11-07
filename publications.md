@@ -87,7 +87,7 @@ layout: page
 
 * Brewer S., Jackson S. T., and Williams J. W. (2012) *Paleoecoinformatics: Applying geohistorical data to ecological questions.* **Trends in Ecology & Evolution** 27: 104-112. [DOI](https://dx.doi.org/10.1016/j.tree.2011.09.009)
 
-* Barnosky A. D., Hadly E. A., Bascompte J., Berlow E. L., Brown J. H., Fortelius M., Getz W. M., Harte J., Hastings A., Marquet P. A., Martinez N. D., Mooers A., Roopnarine P., Vermeij G., Williams J. W., Gillespie R., Kitzes J., Marshall C., Matzke N., Mindell D. P., Revilla E., and Smith A. B. (2012) *Approaching a state-shift in Earth's biosphere.** **Nature** 486:52-58. [DOI](https://dx.doi.org/10.1038/nature11018)
+* Barnosky A. D., Hadly E. A., Bascompte J., Berlow E. L., Brown J. H., Fortelius M., Getz W. M., Harte J., Hastings A., Marquet P. A., Martinez N. D., Mooers A., Roopnarine P., Vermeij G., Williams J. W., Gillespie R., Kitzes J., Marshall C., Matzke N., Mindell D. P., Revilla E., and Smith A. B. (2012) *Approaching a state-shift in Earth's biosphere.* **Nature** 486:52-58. [DOI](https://dx.doi.org/10.1038/nature11018)
 
 * Schwartz M. W. et al. (2012) *Managed relocation:  Integrating the scientific, regulatory, and ethical challenges.* **Bioscience** 62: 732-743. [DOI](https://dx.doi.org/10.1525/bio.2012.62.8.6)
 
@@ -205,25 +205,25 @@ layout: page
 
 ### Book Chapters
 ***
-*	Williams, J.W. & Shuman, B.N. (2013). Pollen records, postglacial:  Northeastern North America. In Encyclopedia of Quaternary Science (eds S.A. Elias & C.J. Mock). Elsevier, Amsterdam.
+*	Williams, J.W. & Shuman, B.N. (2013). *Pollen records, postglacial:  Northeastern North America*. In Encyclopedia of Quaternary Science (eds S.A. Elias & C.J. Mock). Elsevier, Amsterdam.
 
-*	Grimm, E.C., Keltner, J., Cheddadi, R., Hicks, S., Lézine, A.-M., Berrio, J.C., & Williams, J.W. (2013). Pollen databases and their application. In Encyclopedia of Quaternary Science (eds S.A. Elias & C.J. Mock), pp. 831-838. Elsevier.
+*	Grimm, E.C., Keltner, J., Cheddadi, R., Hicks, S., Lézine, A.-M., Berrio, J.C., & Williams, J.W. (2013). *Pollen databases and their application*. In Encyclopedia of Quaternary Science (eds S.A. Elias & C.J. Mock), pp. 831-838. Elsevier.
 
-*	Lorenz, D. J., Vavrus, S. J., Vimont, D. J., Williams, J. W., Notaro, M., Young, J. A., DeWeaver, E. T., and Hopkins, E. J. (2009). Wisconsin's changing climate:  temperature. Understanding Climate Change:  Climate Variability, Predictability, and Change in the Midwestern United States. Edited by S. C. Pryor. Indiana University Press, Bloomington, IN, pp. 76-87.
+*	Lorenz, D. J., Vavrus, S. J., Vimont, D. J., Williams, J. W., Notaro, M., Young, J. A., DeWeaver, E. T., and Hopkins, E. J. (2009). *Wisconsin's changing climate:  temperature. Understanding Climate Change:  Climate Variability, Predictability, and Change in the Midwestern United States*. Edited by S. C. Pryor. Indiana University Press, Bloomington, IN, pp. 76-87.
 
-*	Lorenz, D. J., Vavrus, S. J., Vimont, D. J., Williams, J. W., Notaro, M., Young, J. A., DeWeaver, E. T., and Hopkins, E. J. (2009). Wisconsin's changing climate:  hydrologic cycle. Understanding Climate Change:  Climate Variability, Predictability, and Change in the Midwestern United States. Edited by S. C. Pryor. Indiana University Press, Bloomington, IN, pp. 135-144.
+*	Lorenz, D. J., Vavrus, S. J., Vimont, D. J., Williams, J. W., Notaro, M., Young, J. A., DeWeaver, E. T., and Hopkins, E. J. (2009). *Wisconsin's changing climate:  hydrologic cycle. Understanding Climate Change:  Climate Variability, Predictability, and Change in the Midwestern United States*. Edited by S. C. Pryor. Indiana University Press, Bloomington, IN, pp. 135-144.
 
-*	Williams, J. W. (2009) Quaternary Vegetation Distributions.  Encyclopedia of Paleoclimatology and Ancient Environments. Edited by V. Gornitz. Springer-Verlag.
+*	Williams, J. W. (2009) *Quaternary Vegetation Distributions*.  Encyclopedia of Paleoclimatology and Ancient Environments. Edited by V. Gornitz. Springer-Verlag.
 
-*	Cook, E.R. Bartlein, P. J., Diffenbaugh, N. S., Seager, R., Shuman, B., Webb, R. S., Williams, J. W., Woodhouse, C. A. (2008) Hydrological variability and change, Abrupt Climate Change, A Report by the U.S. Climate Change Science Program and the Subcommittee on Global Change Research, Washington, DC.
+*	Cook, E.R. Bartlein, P. J., Diffenbaugh, N. S., Seager, R., Shuman, B., Webb, R. S., Williams, J. W., Woodhouse, C. A. (2008) *Hydrological variability and change, Abrupt Climate Change, A Report by the U.S. Climate Change Science Program and the Subcommittee on Global Change Research, Washington, DC*.
 
-*	Williams, J. W. (2006) Postglacial pollen records of northeastern North America. Encyclopedia of Quaternary Science. Edited by S. A. Elias. Elsevier, Amsterdam.
+*	Williams, J. W. (2006) *Postglacial pollen records of northeastern North America*. Encyclopedia of Quaternary Science. Edited by S. A. Elias. Elsevier, Amsterdam.
 
-*	Grimm, E. C., Keltner, J., Cheddadi, R., Hicks, S., Lézine, A.-M., Berrio, J. C., and Williams, J. W.. (2006) Pollen databases and their application. Encyclopedia of Quaternary Science. Edited by S. A. Elias. Elsevier, Amsterdam.
+*	Grimm, E. C., Keltner, J., Cheddadi, R., Hicks, S., Lézine, A.-M., Berrio, J. C., and Williams, J. W.. (2006) *Pollen databases and their application*. Encyclopedia of Quaternary Science. Edited by S. A. Elias. Elsevier, Amsterdam.
 
-*	Webb, T., Shuman, B. N., Williams, J. W. (2004) Climatically forced vegetation dynamics in North America during the late Quaternary period.  The Quaternary Period in the United States.  Edited by Gillespie, A. R., Porter, S. C., Atwater, B. F.  Elsevier, pp. 459-478.
+*	Webb, T., Shuman, B. N., Williams, J. W. (2004) *Climatically forced vegetation dynamics in North America during the late Quaternary period.  The Quaternary Period in the United States*.  Edited by Gillespie, A. R., Porter, S. C., Atwater, B. F.  Elsevier, pp. 459-478.
 
 ## Books
 ***
 
-*	Williams, J. W., B. Shuman, P. J. Bartlein, J. Whitmore, K. Gajewski, M. Sawada, T. Minckley, S. Shafer, A. E. Viau, T. Webb, III, P. M. Anderson, L. B. Brubaker, C. Whitlock, and O. K. Davis. (2006) An Atlas of Pollen-Vegetation-Climate Relationships for the United States and Canada. American Association of Stratigraphic Palynologists Foundation, Dallas, TX. 273p
+*	Williams, J. W., B. Shuman, P. J. Bartlein, J. Whitmore, K. Gajewski, M. Sawada, T. Minckley, S. Shafer, A. E. Viau, T. Webb, III, P. M. Anderson, L. B. Brubaker, C. Whitlock, and O. K. Davis. (2006) *An Atlas of Pollen-Vegetation-Climate Relationships for the United States and Canada*. American Association of Stratigraphic Palynologists Foundation, Dallas, TX. 273p
