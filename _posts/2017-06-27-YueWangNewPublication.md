@@ -7,4 +7,3 @@ blurb: "empty field - not being used any more."
 ---
 
 Yue Wang published a new paper "The southern coastal Beringian land bridge: cryptic refugium or pseudorefugium for woody plants during the Last Glacial Maximum?" in Journal of Biogeography.[here](http://onlinelibrary.wiley.com/doi/10.1111/jbi.13010/full)
- 
