@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Simon Goring New Publication in PLOS"
-date:   2017-06-28 12:00:00 -0700
+date:   2017-01-20 12:00:00 -0700
 categories: media
 blurb: "empty field - not being used any more."
 ---

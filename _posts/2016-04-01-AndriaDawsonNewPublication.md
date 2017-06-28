@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Andria Dawson New Publication"
-date:   2017-06-28 12:00:00 -0700
+date:   2016-04-01 12:00:00 -0700
 categories: media
 blurb: "empty field - not being used any more."
 ---

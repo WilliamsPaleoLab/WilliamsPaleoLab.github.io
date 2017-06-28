@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cozzarelli Prize for Jack Williams and Yue Wang's PNAS paper "
-date:   2017-06-28 12:00:00 -0700
+date:   2017-02-24 12:00:00 -0700
 categories: media
 blurb: "empty field - not being used any more."
 ---
