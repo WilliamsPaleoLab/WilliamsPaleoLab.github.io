@@ -149,7 +149,7 @@
     {% endfor %}
     <!--  end undergrads loop -->
 
-    <h3 class='page-header section-header'>Alummi</h3>
+    <h3 class='page-header section-header'>Alumni</h3>
     <!-- do alumni now -->
     {% assign alumni = site.people | where:'role', 'Alumni' | sort:'seniority' %} <!-- select from the templates for undergrads -->
     {% for person in alumni  %} <!-- iterate through the matching undegrads -->
