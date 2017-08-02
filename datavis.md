@@ -19,6 +19,9 @@ Archived on [Dryad](http://datadryad.org/resource/doi:10.5061/dryad.1597g.2).  D
 #### _**North American Modern Pollen Dataset**_
 The [NAPMD](../data/whitmoreetal2005.zip) archives pollen surface samples from North America, along with attributed climatic and vegetational data for each location. A full description of the dataset and its compilation is provided by Whitmore et al. (2005). This data is the foundation for an atlas of modern pollen-climate and pollen-vegetation relationships (Williams et al., 2006). Additionally, PDFs of maps and climate-vegetation-pollen plots are available at [NOAA](http://www.ncdc.noaa.gov/paleo/pubs/williams2006/williams2006.html).
 
+#### _**Global Pollen Project**_
+The [GPP](XXXXXURL), developed by Andrew Martin and Will Harvey [(Martin and Harvey, 2017)](XXXURL), offers a community portal for digital pollen images and identification.   
+
 ### Visualizations
 <hr>
 #### _**Ice Age Mapper**_
