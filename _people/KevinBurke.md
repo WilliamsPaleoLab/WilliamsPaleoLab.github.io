@@ -7,5 +7,5 @@ twitter: "https://twitter.com/KD_Burke"
 email: "kdburke@wisc.edu"
 orcid: "http://orcid.org/0000-0003-3163-9117"
 photo: "Kevin_Burke.jpg"
-seniority: "2"
+seniority: "1"
 ---
