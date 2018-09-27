@@ -7,5 +7,5 @@ twitter: "https://twitter.com/srsupp"
 email: "sarah@weecology.org"
 orcid: "http://orcid.org/0000-0002-0072-029X"
 photo: "sarah.jpg"
-seniority: "1"
+seniority: "2"
 ---
