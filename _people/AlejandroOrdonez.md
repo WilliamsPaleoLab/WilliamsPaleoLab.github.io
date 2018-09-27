@@ -1,7 +1,7 @@
 ---
 name: "Alejandro Ordonez Gloria"
 role: "Alumni"
-photo: "AlejandroOrdonez.jpg"
+photo: "AlejandroOrdonez.JPG"
 biography: "[Not used for alumni]"
 linkedin: "[Not used for alumni]"
 twitter: "[Not used for alumni]"
