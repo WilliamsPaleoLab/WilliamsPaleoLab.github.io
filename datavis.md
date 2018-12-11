@@ -27,6 +27,9 @@ The [GPP](XXXXXURL), developed by Andrew Martin and Will Harvey [(Martin and Har
 #### _**Ice Age Mapper**_
 [Ice Age Mapper](http://paleo.geography.wisc.edu/)  is an interactive map interface that allows you to view animated maps of species distributions since the last ice age.  IAM is a successor to Pollen Viewer and is in development (Nov 2016).
 
+#### _**Future Climate Analog Animations**_
+Under a high-end emissions scenario (RCP8.5), [future climates](../data/Median_Analog_Animation_RCP85.gif) resemble Pliocene-like climates by 2030 CE, and resemble Eocene-like climates by 2150 CE. Under a more moderate, stabilization emissions scenario (RCP4.5), [future climates](../data/Median_Analog_Animation_RCP45.gif) resemble Pliocene-like climates by 2040 CE and remain most similar to those of the Pliocene through 2300. 
+
 #### _**Settlement-Era Maps of Tree Composition**_
 These [maps](http://gandalf.berkeley.edu:3838/paciorek/setVegComp-leaflet/) of tree distributions at the time of Euro-American settlement were compiled from Public Land Survey (PLS) and Township Proprietor Survey (TPS) data by the Settlement Vegetation Group of the PalEON project.   The compilation and cleaning of the settlement-era datasets are described in Goring et al. (in press) PLoS and the spatiotemporal statistical modeling is described in Paciorek et al. 2016 PLoS.  Support for the PalEON project provided by NSF-Macrosystems.
 
