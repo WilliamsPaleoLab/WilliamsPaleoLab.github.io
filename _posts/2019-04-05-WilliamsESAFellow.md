@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Williams Elected as Fellow of Ecological Society of America'"
+title:  "Williams Elected as Fellow of Ecological Society of America"
 date:   2019-1-09 11:54:29 -0700
 categories: media
 blurb:
