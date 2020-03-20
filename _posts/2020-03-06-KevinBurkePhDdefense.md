@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Paper by Kevin Burke: Identifying Past Analogs for Future Climates"
+title:  "Kevin Burke PhD Defense"
 date:   2020-03-06 11:54:29 -0700
 categories: media
 blurb:
