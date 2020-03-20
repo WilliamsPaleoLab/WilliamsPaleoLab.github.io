@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Congratulations to Anna George & David Fastovich: Campus Fellows!"
+title:  "Congrats to Anna George & David Fastovich: Campus Awards!"
 date:   2020-02-01 11:54:29 -0700
 categories: media
 blurb:
