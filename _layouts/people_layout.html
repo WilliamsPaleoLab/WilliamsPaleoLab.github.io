@@ -152,34 +152,21 @@
     <h3 class='page-header section-header'>Alumni</h3>
     <!-- do alumni now -->
     {% assign alumni = site.people | where:'role', 'Alumni' | sort:'seniority' %} <!-- select from the templates for undergrads -->
+    <div class='row'>
+        <div  class="col-md-6 col-xs-3">
     {% for person in alumni  %} <!-- iterate through the matching undegrads -->
-        <div class='row'>
-            <div>
-            <h4 class='page-header name-header'>{{ person.name }}</h4>
-            <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}"  class='img-responsive col-xs-2'/>
-            {% if person.website %}
-              <a href="{{person.website}}">Website</a> |
-              {% endif %}
-            {% if person.orcid %}
-              <a href="{{person.orcid}}">Orcid</a> |
-              {% endif %}
-            {% if person.email %}
-              <a href="mailto:{{person.email}}">Email</a>
-              {% endif %}
+                <h4 class='page-header name-header'>{{ person.name }}</h4>
+                <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}"  class='img-responsive col-xs-2'/>
+                {% if person.website %}
+                  <a href="{{person.website}}">Website</a> |
+                  {% endif %}
+                {% if person.orcid %}
+                  <a href="{{person.orcid}}">Orcid</a> |
+                  {% endif %}
+                {% if person.email %}
+                  <a href="mailto:{{person.email}}">Email</a>
+                  {% endif %}
           </div>
-          <div>
-              <h4 class='page-header name-header'>{{ person.name }}</h4>
-              <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}"  class='img-responsive col-xs-2'/>
-              {% if person.website %}
-                <a href="{{person.website}}">Website</a> |
-                {% endif %}
-              {% if person.orcid %}
-                <a href="{{person.orcid}}">Orcid</a> |
-                {% endif %}
-              {% if person.email %}
-                <a href="mailto:{{person.email}}">Email</a>
-                {% endif %}
-        </div>
       </div>
   {% endfor %}
   <!--  end alumni loop -->
