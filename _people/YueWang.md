@@ -8,5 +8,5 @@ email: "yue.wang.pku@gmail.com"
 website: "[Not used for alumni]"
 orcid: "http://orcid.org/0000-0002-9826-3276"
 photo: "YueWang.JPG"
-seniority: "1"
+seniority: "6"
 ---

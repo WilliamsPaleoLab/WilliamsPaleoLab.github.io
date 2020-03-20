@@ -8,5 +8,5 @@ email: "bnzak@wisc.edu"
 website: "[Not used for alumni]"
 orcid:
 photo: "BaileyZak.jpg"
-seniority: "1"
+seniority: "7"
 ---
