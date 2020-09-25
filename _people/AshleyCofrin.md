@@ -10,4 +10,4 @@ researchgate:
 googlescholar: 
 seniority: "2"
 ---
-jeyll build
+jekyll build
