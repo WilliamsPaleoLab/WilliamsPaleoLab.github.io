@@ -158,8 +158,8 @@
         {% for person in alumni  %} <!-- iterate through the matching alumni -->
             <div class="col-md-3">
                 <h4 class='page-header name-header'>{{ person.name }}</h4>
-                <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}"  class='img-responsive col-xs-2'/>
-                <span>
+                <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}"  class='img-responsive row-xs-2'/>
+                <!-- <span> -->
                     {% if person.website %}
                   <a href="{{person.website}}">Website</a> |
                   {% endif %}
@@ -169,7 +169,7 @@
                 {% if person.email %}
                   <a href="mailto:{{person.email}}">Email</a>
                   {% endif %}
-              </span>
+              <!-- </span> -->
             </div>
         {% endfor %}
         <!--  end alumni loop -->
