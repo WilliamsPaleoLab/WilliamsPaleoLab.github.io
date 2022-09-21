@@ -160,8 +160,9 @@
     <h3 class='page-header section-header'>Alumni</h3>
     <!-- do alumni now -->
     <div class='image-gallery'>
-    {% assign alumni = site.people | where:'role', 'Alumni' | sort:'seniority' %} <!-- select from the templates for undergrads -->
-    {% for person in alumni  %} <!-- iterate through the matching alu -->
+    {% assign alumni = site.people | where:'role', 'Alumni' | sort:'seniority' %} <!-- select from the templates for alumni -->
+    {% for person in alumni  %} <!-- iterate through the matching alumni -->
+        <a>
             <h4 class='page-header name-header'>{{ person.name }}</h4>
             <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}"  class='img-responsive col-xs-2'/>
             <span>{% if person.website %}
@@ -173,7 +174,8 @@
             {% if person.email %}
               <a href="mailto:{{person.email}}">Email</a>
               {% endif %}</span>
-          {% endfor %}
+        </a>
+    {% endfor %}
   <!--  end alumni loop -->
     </div>
   </div>
