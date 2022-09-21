@@ -3,6 +3,14 @@
     {% include head.html %}
     <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
     {% include nav.html %}
+
+    <style>
+        .image-gallery {overflow: auto; margin-left: -1%!important;}
+        .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
+        .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+        .image-gallery a img {width: 100%; display: block;}
+    </style>
+
     <h2 class='page-header'>People in the Lab</h2>
 
 <div class='container'>
@@ -151,9 +159,9 @@
 
     <h3 class='page-header section-header'>Alumni</h3>
     <!-- do alumni now -->
+    <div class='image-gallery'>
     {% assign alumni = site.people | where:'role', 'Alumni' | sort:'seniority' %} <!-- select from the templates for undergrads -->
-    {% for person in alumni  %} <!-- iterate through the matching undegrads -->
-        <div class='image-gallery'>
+    {% for person in alumni  %} <!-- iterate through the matching alu -->
             <h4 class='page-header name-header'>{{ person.name }}</h4>
             <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}"  class='img-responsive col-xs-2'/>
             <span>{% if person.website %}
@@ -166,8 +174,8 @@
               <a href="mailto:{{person.email}}">Email</a>
               {% endif %}</span>
           {% endfor %}
-        </div>
   <!--  end alumni loop -->
+    </div>
   </div>
     </body>
 {% include footer.html %}
