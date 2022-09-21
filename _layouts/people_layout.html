@@ -6,9 +6,9 @@
 
     <style>
         .image-gallery {overflow: auto; margin-left: -1%!important;}
-        .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
-        .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
-        .image-gallery a img {width: 100%; display: block;}
+        .image-gallery alum {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
+        .image-gallery alum span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+        .image-gallery alum img {width: 100%; display: block;}
     </style>
 
     <h2 class='page-header'>People in the Lab</h2>
@@ -162,7 +162,7 @@
     <div class='image-gallery'>
     {% assign alumni = site.people | where:'role', 'Alumni' | sort:'seniority' %} <!-- select from the templates for alumni -->
     {% for person in alumni  %} <!-- iterate through the matching alumni -->
-        <a>
+        <div class='alum'>
             <h4 class='page-header name-header'>{{ person.name }}</h4>
             <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}"  class='img-responsive col-xs-2'/>
             <span>{% if person.website %}
@@ -174,7 +174,7 @@
             {% if person.email %}
               <a href="mailto:{{person.email}}">Email</a>
               {% endif %}</span>
-        </a>
+        </div>
     {% endfor %}
   <!--  end alumni loop -->
     </div>
