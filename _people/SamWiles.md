@@ -1,3 +1,4 @@
 name: Sam Wiles
 role: Graduate Student
-bio: I am a master's student in geography studying ecotonal dynamics and mid- to late-Holocene abrupt ecological change in the Lower Peninsula of Michigan.
+bio: I am a second-year M.S. student in Physical Geography interested in paleoecology, climate change, landscape ecology, and forest systems. My current project is working up a pollen record from Central Michigan to investigate the relationship between abrupt ecological change and ecotonal dynamics.
+photo: 
