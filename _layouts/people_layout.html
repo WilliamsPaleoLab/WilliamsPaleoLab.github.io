@@ -153,25 +153,25 @@
     <h3 class='page-header section-header'>Alumni</h3>
     <!-- do alumni now -->
     <div class="container-fluid">
-        <div class='row'>
-        {% assign alumni = site.people | where:'role', 'Alumni' | sort:'seniority' %} <!-- select from the templates for alumni -->
-        {% for person in alumni  %} <!-- iterate through the matching alumni -->
-            <div class="col">
-                <h4 class='page-header name-header'>{{ person.name }}</h4>
-                <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}"  class='img-responsive row-xs-3'/>
-                <!-- <span> -->
-                {% if person.website %}
-                  <a href="{{person.website}}">Website</a> |
-                  {% endif %}
-                {% if person.orcid %}
-                  <a href="{{person.orcid}}">Orcid</a> |
-                  {% endif %}
-                {% if person.email %}
-                  <a href="mailto:{{person.email}}">Email</a>
-                  {% endif %}
-              <!-- </span> -->
+        <div class='album'>
+            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3>
+                {% assign alumni = site.people | where:'role', 'Alumni' | sort:'seniority' %} <!-- select from the templates for alumni -->
+                {% for person in alumni  %} <!-- iterate through the matching alumni -->
+                    <div class="col">
+                        <h4 class='page-header name-header'>{{ person.name }}</h4>
+                        <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}"  class='img-responsive row-xs-3'/>
+                        {% if person.website %}
+                        <a href="{{person.website}}">Website</a> |
+                        {% endif %}
+                        {% if person.orcid %}
+                        <a href="{{person.orcid}}">Orcid</a> |
+                        {% endif %}
+                        {% if person.email %}
+                        <a href="mailto:{{person.email}}">Email</a>
+                        {% endif %}
+                    </div>
+                {% endfor %}
             </div>
-        {% endfor %}
         <!--  end alumni loop -->
         </div>
     </div>
