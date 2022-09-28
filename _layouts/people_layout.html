@@ -156,10 +156,10 @@
             <div class='row'>
                 {% assign alumni = site.people | where:'role', 'Alumni' | sort:'seniority' %} <!-- select from the templates for alumni -->
                 {% for person in alumni  %} <!-- iterate through the matching alumni -->
-                    <div class="col sm-3">
+                    <div class="col-xs-6 col-sm-3">
                         <h4 class='page-header name-header'>{{ person.name }}</h4>
                         <div class="thumbnail">
-                            <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}"/>
+                            <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}" style='width:100%'/>
                         </div>
                         {% if person.website %}
                         <a href="{{person.website}}">Website</a> |
