@@ -1,0 +1,8 @@
+---
+name: "Miranda Siedelmann"
+role: "Undergraduate"
+photo: "MirandaSiedelmann.jpg"
+biography: "I am a third year student studying Environmental Sciences and Spanish. Since joining the Williams Lab in 2020, I have processed lake sediment and counted macro fossil charcoal from 3 lakes. In my research, I have studied fire histories in the context of paleoecology."
+email: "siedelmann@wisc.edu"
+seniority: "4"
+---
