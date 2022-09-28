@@ -5,6 +5,7 @@ role: "Postdoc"
 twitter: "https://twitter.com/polleniscallin"
 email: "aperrotti@wisc.edu"
 orcid: "http://orcid.org/0000-0001-6003-0082"
-photo: "Perrotti.jpg"
+github: "https://github.com/perrangie"
+photo: "AngiePerrotti.jpg"
 seniority: "10"
 ---
