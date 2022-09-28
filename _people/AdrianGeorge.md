@@ -6,5 +6,6 @@ biography: "I’m a PhD student in Physical Geography interested in paleoecology
 website: "https://adriankgeorge.github.io/"
 twitter: "https://twitter.com/adriankgeorge"
 email: "aegeorge2@wisc.edu"
+orcid: "https://orcid.org/0000-0003-1899-6179"
 seniority: "1"
 ---
