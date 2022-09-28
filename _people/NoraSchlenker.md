@@ -4,5 +4,5 @@ biography: "I’m a third year Ph.D. student in Physical Geography interested in
 role: "Graduate Student"
 email: "nschlenker@wisc.edu"
 photo: "NoraSchlenker.jpg"
-seniority: "3"
+seniority: "2"
 ---
