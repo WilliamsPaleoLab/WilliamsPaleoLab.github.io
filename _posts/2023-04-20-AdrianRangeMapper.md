@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "New paper: *Range Mapper: interactive, animated web maps of Late-Quaternary open paleoecological data*"
-date: 2023-04-20 16:40:00 -0700
+title:  "New paper: Range Mapper: interactive, animated web maps of Late-Quaternary open paleoecological data"
+date:   2023-04-21 12:00:00 -0700
 categories: media
 blurb:
 ---
