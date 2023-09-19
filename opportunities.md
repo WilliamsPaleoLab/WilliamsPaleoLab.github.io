@@ -10,11 +10,11 @@ Numbers vary, but typically I bring in one new graduate student each year.  Stud
 
 The Geography Department at the University of Wisconsin is one of the top Geography programs in the country at one of the top research universities in the world.  It's an excellent place to pursue interdisciplinary research into environmental change. Madison is a great place to live and work, and Science Hall, the location of the Geography Department, is right in the middle of campus, next to the Memorial Union and the Terrace.
 
-Key graduate research and educational resources include the Center for Climatic Research [CCR](http://nelson.wisc.edu/ccr/index.php), The Climate, People, and Environment Seminar [CPEP](https://nelson.wisc.edu/ccr/events/seminars.php), Wisconsin Ecology [WE](ecology.wisc.edu/), the Cartography Lab [Cart Lab](http://www.geography.wisc.edu/cartography/), the Center for Sustainability and the Global Environment [SAGE](http://nelson.wisc.edu/sage/).  We also regularly work with the National Lacustrine Core Facility [LacCore](http://lrc.geo.umn.edu/laccore/) at the University of Minnesota.
+Key graduate research and educational resources include the Center for Climatic Research [CCR](http://nelson.wisc.edu/ccr/index.php), The Climate, People, and Environment Seminar [CPEP](https://ccr.nelson.wisc.edu/cpep-seminars/), Center for Ecology and the Environment [CEE](ecology.wisc.edu), the Cartography Lab [Cart Lab](http://www.geography.wisc.edu/cartography/), the Center for Sustainability and the Global Environment [SAGE](http://nelson.wisc.edu/sage/).  We also regularly work with the National Lacustrine Core Facility [LacCore](http://lrc.geo.umn.edu/laccore/) at the University of Minnesota.
 
 Graduate applications are usually due in mid-December.  
 
-If you are interested in joining the Williams Lab, please contact [Dr. Williams](mailto:jwwilliams1@wisc.edu). You should also contact [Dr. Sharon Kahn](mailto:smkahn@wisc.edu), Director of the Graduate Program, for details about the application process.  More information about the graduate program is available on the Geography [website](http://geography.wisc.edu/graduate/prospective-students.php).
+If you are interested in joining the Williams Lab, please contact [Dr. Williams](mailto:jwwilliams1@wisc.edu). You should also contact [Marguerite Roulet](mailto:maroulet@wisc.edu), Graduate Program Manager, for details about the application process.  More information about the graduate program is available on the Geography [website](https://geography.wisc.edu/).
 
 ### Undergraduate Student Opportunities
 <hr>
