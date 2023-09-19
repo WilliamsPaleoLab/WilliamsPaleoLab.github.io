@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "New paper: Range Mapper: interactive, animated web maps of Late-Quaternary open paleoecological data"
+date:   2023-04-21 12:00:00 -0700
+categories: media
+blurb:
+---
+We’re excited to announce the release of [Range Mapper](https://geography.wisc.edu/rangemapper/), a new set of online interactive and animated maps of tree, shrub, and grass distributions and their changes in North America, Europe, and Oceania since the peak of the last Ice Age. The accompanying paper by Adrian George et al, *Range Mapper: An adaptable process for making and using interactive, animated web maps of Late-Quaternary open paleoecological data*, is published in [Open Quaternary](https://openquaternary.com/articles/10.5334/oq.114). These animated maps illustrate the dynamic changes in species’ ranges in response to past climate and other environmental changes. They can be readily used by educators and students interested in learning about the effects of climate change and ecosystems. Experts may also find these maps useful for quick-look insights into past patterns and processes at broad scales.  Each map is based upon networks of fossil pollen data drawn from the Neotoma Paleoecology Database. All underlying code is posted to [Github](https://github.com/NeotomaDB/RangeMapper/releases/tag/v1.0) and [Zenodo](https://zenodo.org/record/7600912) and can be readily adapted by other interested users to show other species or taxonomic groups of interest. Range Mapper was developed by Adrian George and Sydney Widell, with advice from Rob Roth and Jack Williams and support from the National Science Foundation (NSF). Check out [Range Mapper](https://geography.wisc.edu/rangemapper/)!

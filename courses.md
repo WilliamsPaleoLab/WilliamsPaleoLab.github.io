@@ -14,7 +14,7 @@ layout: page
 Geog120 introduces students to how the Earth system works, what makes Earth livable, and the diverse processes linking the atmosphere, oceans, and earth's surface. Many students take this course to fulfill their physical science requirement. Others use it as a gateway to majors and careers in Geography, Environmental Studies, and Environmental Science.
 
 
-#### _**Geog/NIES/AOS 331 Climatic Environments of the Past**_
+#### _**Geog/NIES/AOS/Geosci 335 Climatic Environments of the Past**_
 
 ##### [**SYLLABUS**](http://geography.wisc.edu/courses/syllabi/331_fall.pdf)
 

@@ -51,3 +51,13 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+// Fixes alum row height issue
+.row.display-flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+.row.display-flex > [class*='col-'] {
+  display: flex;
+  flex-direction: column;
+}

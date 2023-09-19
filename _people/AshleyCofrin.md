@@ -1,11 +1,9 @@
 ---
 name: "Ashley Cofrin"
-role: "Undergraduate"
+role: "Alumni"
 photo: "AshleyCofrin.jpg"
-biography: "I'm an undergraduate double majoring in Physical Geography, and Community Environmental Sociology, with a certificate in Environmental Studies. I am currently studying the seasonality of the Younger Dryas through climate model simulations. I also work on sampling lake sediment cores extracted from the midwest region."
+biography: "[Not used for alumni]"
 email: "acofrin@wisc.edu"
-researchgate: 
-googlescholar: 
-seniority: "1"
+seniority: "2"
 ---
 
