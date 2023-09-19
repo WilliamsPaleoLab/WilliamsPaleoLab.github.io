@@ -14,7 +14,7 @@ Key graduate research and educational resources include the Center for Climatic 
 
 Graduate applications are usually due in mid-December.  
 
-If you are interested in joining the Williams Lab, please contact [Dr. Williams](mailto:jwwilliams1@wisc.edu). You should also contact [Marguerite Roulet](mailto:maroulet@wisc.edu), Graduate Program Manager, for details about the application process.  More information about the graduate program is available on the Geography [website](https://geography.wisc.edu/research-graduate-programs/prospective-graduate-students/).
+If you are interested in joining the Williams Lab, please contact [Dr. Williams](mailto:jwwilliams1@wisc.edu). You should also contact [Marguerite Roulet](mailto:maroulet@wisc.edu), Graduate Program Manager, for details about the application process.  More information about the graduate program is available on the Geography [website](https://geography.wisc.edu/).
 
 ### Undergraduate Student Opportunities
 <hr>
