@@ -1,7 +1,7 @@
 ---
 name: "Eric P Giese"
 role: "Graduate Student"
-photo: ""
+photo: "EricGiese.jpg"
 biography: " "
 website: ""
 twitter: ""
