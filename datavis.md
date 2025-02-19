@@ -8,33 +8,32 @@ layout: page
 ### Databases and Datasets
 <hr>
 #### _**Neotoma Paleoecology Database**_
-[Neotoma](https://www.neotomadb.org)  is a community-curated data repository for paleoecological data for the Plio-Pleistocene.  Neotoma is widely used to study the spatial responses of species and communities to past environmental change.
+[Neotoma](https://www.neotomadb.org)  is a community-curated data repository for paleoecological data for the Plio-Pleistocene. Neotoma is widely used to study the spatial responses of species and communities to past environmental change. Additionally,the [neotoma2 R package](https://cran.r-project.org/web/packages/neotoma2/vignettes/neotoma2-package.html) provides access to and manipulation of Neotoma data directly from R, the package simplifies some of the data structures and concepts to facilitate statistical analysis and visualization. 
 
 #### _**Earth Life Consortium**_
-The [Earth Life Consortium](http://earthlifeconsortium.org/) offers a common portal (in development as of Nov 2016) to jointly query from [Neotoma](https://www.neotomadb.org), the [PBDB](https://paleobiodb.org/#/), and other paleobiological resources.
+The [Earth Life Consortium](http://earthlifeconsortium.org/) offers a common portal to jointly query from [Neotoma](https://www.neotomadb.org), the [PBDB](https://paleobiodb.org/#/), and other paleobiological resources.
 
 #### _**Downscaled and debiased climate simulations for North America from 21,000 years ago to 2100AD**_
-Archived on [Dryad](http://datadryad.org/resource/doi:10.5061/dryad.1597g.2).  Downscaled and debiased paleoclimatic simulations from 21,000 years ago to 2100AD. Downscaled to 0.5deg lat/lon and decadal resolution for North America.  Paleoclimatic simulations from CCSM3 (Liu et al. 2009) and EC-BILT (Timm & Timmermann, 2007). 21st-century climate simulations from the CMIP5/IPCC AR5 model archive, for the RCP 4.5 and 8.5 scenarios.
+Archived on [Dryad](http://datadryad.org/resource/doi:10.5061/dryad.1597g.2). Downscaled and debiased paleoclimatic simulations from 21,000 years ago to 2100AD. Downscaled to 0.5deg lat/lon and decadal resolution for North America. Paleoclimatic simulations from CCSM3 (Liu et al. 2009) and EC-BILT (Timm & Timmermann, 2007). 21st-century climate simulations from the CMIP5/IPCC AR5 model archive, for the RCP 4.5 and 8.5 scenarios.
 
 #### _**North American Modern Pollen Dataset**_
-The [NAPMD](../data/whitmoreetal2005.zip) archives pollen surface samples from North America, along with attributed climatic and vegetational data for each location. A full description of the dataset and its compilation is provided by Whitmore et al. (2005). This data is the foundation for an atlas of modern pollen-climate and pollen-vegetation relationships (Williams et al., 2006). Additionally, PDFs of maps and climate-vegetation-pollen plots are available at [NOAA](http://www.ncdc.noaa.gov/paleo/pubs/williams2006/williams2006.html).
+The [NAPMD](../data/whitmoreetal2005.zip) archives pollen surface samples from North America, along with attributed climatic and vegetational data for each location. A full description of the dataset and its compilation is provided by Whitmore et al. (2005). This data is the foundation for an atlas of modern pollen-climate and pollen-vegetation relationships (Williams et al., 2006). Additionally, PDFs of maps and climate-vegetation-pollen plots are available at [NOAA](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=noaa-pollen-5974).
 
 #### _**Global Pollen Project**_
-The [GPP](XXXXXURL), developed by Andrew Martin and Will Harvey [(Martin and Harvey, 2017)](XXXURL), offers a community portal for digital pollen images and identification.   
+The [GPP](https://oxpollen.azurewebsites.net/), developed by Andrew Martin and Will Harvey [(Martin and Harvey, 2017)](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.12752), offers a community portal for digital pollen images and identification.   
 
 ### Visualizations
 <hr>
-#### _**Ice Age Mapper**_
-[Ice Age Mapper](http://paleo.geography.wisc.edu/)  is an interactive map interface that allows you to view animated maps of species distributions since the last ice age.  IAM is a successor to Pollen Viewer and is in development (Nov 2016).
+#### _**Range Mapper**_
+[Range Mapper](https://geography.wisc.edu/rangemapper/) is an interactive map interface that shows the distribution of major tree taxa and the extent of ice sheets from the Last Glacial Maximum to present. 
 
 #### _**Future Climate Analog Animations**_
 Under a high-end emissions scenario (RCP8.5), [future climates](../data/Median_Analog_Animation_RCP85.gif) resemble Pliocene-like climates by 2030 CE, and resemble Eocene-like climates by 2150 CE. Under a more moderate, stabilization emissions scenario (RCP4.5), [future climates](../data/Median_Analog_Animation_RCP45.gif) resemble Pliocene-like climates by 2040 CE and remain most similar to those of the Pliocene through 2300. 
 
 #### _**Settlement-Era Maps of Tree Composition**_
-These [maps](http://gandalf.berkeley.edu:3838/paciorek/setVegComp-leaflet/) of tree distributions at the time of Euro-American settlement were compiled from Public Land Survey (PLS) and Township Proprietor Survey (TPS) data by the Settlement Vegetation Group of the PalEON project.   The compilation and cleaning of the settlement-era datasets are described in Goring et al. (in press) PLoS and the spatiotemporal statistical modeling is described in Paciorek et al. 2016 PLoS.  Support for the PalEON project provided by NSF-Macrosystems.
+These [maps](http://gandalf.berkeley.edu:3838/paciorek/setVegComp-leaflet/) of tree distributions at the time of Euro-American settlement were compiled from Public Land Survey (PLS) and Township Proprietor Survey (TPS) data by the Settlement Vegetation Group of the PalEON project. The compilation and cleaning of the settlement-era datasets are described in Goring et al. [2016](https://onlinelibrary.wiley.com/doi/10.1111/ele.12747) PLoS and the spatiotemporal statistical modeling is described in Paciorek et al. [2016](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246473) PLoS. Support for the PalEON project provided by NSF-Macrosystems.
 
-#### _**Flyover Country**_
-[Flyover Country](http://fc.umn.edu/) iOS and Android App for viewing geological data while flying, driving, and traveling.  Includes Neotoma data!
+
 
 #### _**Climate Analog Mapper (WICCI)**_
 The [climate analog mapper](http://www.wicci.wisc.edu/climate-map.php) allows you to ask a simple question: What climates today most resemble the future climates projected for my location? An interactive map interface enables users to find contemporary analogs for the future climates projected for Wisconsin locations. Developed as part of the Wisconsin Initiative on Climate Change Impacts [WICCI](http://www.wicci.wisc.edu).
@@ -51,12 +50,10 @@ Public presentations about climate change, ecological responses to climate chang
 We use [GitHub](https://github.com/WilliamsLabPaleo) to share code for individual and group research projects.  [Williams Lab](https://github.com/WilliamsLabPaleo) holds code for group projects.  See the People page for GitHub links for individual accounts.
 
 #### _**Tilia**_
-[Tilia](http://www.tiliait.com/) is software deveoped by Eric Grimm upload, download, and view data from Neotoma.  It is a primary tool for Neotoma Data Stewards.
+[Tilia](http://www.tiliait.com/) is software developed by Eric Grimm upload, download, and view data from Neotoma.  It is a primary tool for Neotoma Data Stewards.
 
 #### _**Flyover Country**_
-[Flyover Country](http://fc.umn.edu/) is an iOS and Android App for viewing geological data while flying, driving, and traveling.  Includes Neotoma data!
-
-## Older Resources
+[Flyover Country](https://flyovercountry.io/) iOS and Android App for viewing geological data while flying, driving, and traveling.  Includes Neotoma data!## Older Resources
 <hr>
 
 These materials are less up-to-date but are maintained for purposes of archival and reproducibility.
