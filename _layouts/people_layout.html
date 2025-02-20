@@ -158,8 +158,8 @@
                 {% for person in alumni  %} <!-- iterate through the matching alumni -->
                     <div class="col-xs-6 col-sm-3">
                         <h4 class='page-header name-header'>{{ person.name }}</h4>
-                        <div class="thumbnail" style="object-fit:cover">
-                            <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}" style='height:100%'/>
+                        <div class="thumbnail">
+                            <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}" style='height:100%; width:200px; object-fit: cover;'/>
                         </div>
                         {% if person.website %}
                         <a href="{{person.website}}">Website</a> |
