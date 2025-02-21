@@ -157,10 +157,7 @@
                 {% assign alumni = site.people | where:'role', 'Alumni' | sort:'name' %} <!-- select from the templates for alumni -->
                 {% for person in alumni  %} <!-- iterate through the matching alumni -->
                     <div class="col-xs-6 col-sm-3">
-                        <h4 class='page-header name-header'>{{ person.name }}</h4>
-                        <div class="thumbnail">
-                            <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}" style='width:100%; height:200px; object-fit: cover;'/>
-                        </div>
+                        <h4 class='page-header name-header card-title'>{{ person.name }}</h4>
                         {% if person.website %}
                         <a href="{{person.website}}">Website</a> |
                         {% endif %}
@@ -170,6 +167,10 @@
                         {% if person.email %}
                         <a href="mailto:{{person.email}}">Email</a>
                         {% endif %}
+                        <div class="thumbnail">
+                            <img src="{{site.baseurl}}/img/bio_img/{{person.photo}}" style='width:100%; height:200px; object-fit: cover;'/>
+                        </div>
+
                     </div>
                 {% endfor %}
             </div>
