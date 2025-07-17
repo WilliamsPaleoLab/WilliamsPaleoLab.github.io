@@ -3,11 +3,27 @@ title: "Publications"
 layout: page
 ---
 
-## Publications
+## Selected Publications
 
-### Peer-Reviewed Journal Articles
+### Peer-Reviewed Journal Articles (*indicates students or postdocs in lab)
 ***
+#### 2025
+* Fastovich, David, Meyers, S.R., Saupe, E.E., Williams, J.W., Dornelas, M., Dowding, E.M., Finnegan, S., Huang, H.-H.M., Jonkers, L., Kiessling, W., Kocsis, Á.T., Li, Q., Liow, L.H., Na, L., Penny, A.M., Pippenger, K., Renaudie, J., Rillo, M.C., Smith, J., Steinbauer, M.J., Sugawara, M., Tomašovỳch, A., Yasuhara, M., Hull, P.M., 2025. *Coupled, decoupled, and abrupt responses of vegetation to climate across timescales.* **Science** 389: 64-68. [DOI](https://doi.org/10.1126/science.adr6700) 
 
+* Salonen, J.S., Schenk, F., Williams, J.W., Shuman, B.N., Lindroth Dauner, A.L., Wagner, S., Jungclaus, J., Zhang, Q., Luoto, M., 2025. *Patterns and drivers of Holocene moisture variability in mid-latitude eastern North America.* **Nature Communications** 16: 3582. [DOI](https://doi.org/10.1038/s41467-025-58685-7) 
+
+* Stemkovski, M., Bernhardt, J.R., Blonder, B.W., Bradford, J.B., Clark-Wolf, K., Dee, L.E., Evans, M.E.K., Iglesias, V., Johnson, L.C., Lynch, A.J., Malone, S.L., Osborne, B.B., Pastore, M.A., Paterson, M., Pinsky, M.L., Rollinson, C.R., Selmoni, O., Venkiteswaran, J.J., Walker, A.P., Ward, N.K., Williams, J.W., Zarakas, C.M., Adler, P.B., 2025. *Ecological acclimation: A framework to integrate fast and slow responses to climate change.* **Functional Ecology** n/a. [DOI](https://doi.org/10.1111/1365-2435.70079)
+
+* Staples, T.L., Blois, J., Cramer, K.L., Cunningham, E.T., Dornelas, M., Haberle, S.G., Heger, T., Kiessling, W., Magurran, A.E., O’Dea, A., Penny, A.M., Radeloff, V.C., Smith, J.A., Thuiller, W., Williams, J.W., Pandolfi, J.M., 2025. *A conceptual framework for measuring ecological novelty.* **Global Ecology and Biogeography** 34, e70005. [DOI](https://doi.org/10.1111/geb.70005)
+
+#### 2024
+#### 2023
+#### 2022
+#### 2021
+#### 2020
+#### 2019
+#### 2018
+#### 2017
 #### 2016
 * Ordonez, A., Williams, J. W., and Svenning, J. C. (2016) *Mapping climate mechanisms likely to favour the emergence of novel communities.* **Nature Climate Change** [DOI](https://dx.doi.org/10.1038/nclimate3127).
 
@@ -225,5 +241,4 @@ layout: page
 
 ## Books
 ***
-
 *	Williams, J. W., B. Shuman, P. J. Bartlein, J. Whitmore, K. Gajewski, M. Sawada, T. Minckley, S. Shafer, A. E. Viau, T. Webb, III, P. M. Anderson, L. B. Brubaker, C. Whitlock, and O. K. Davis. (2006) *An Atlas of Pollen-Vegetation-Climate Relationships for the United States and Canada*. American Association of Stratigraphic Palynologists Foundation, Dallas, TX. 273p
