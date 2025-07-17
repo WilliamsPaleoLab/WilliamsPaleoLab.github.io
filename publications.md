@@ -5,7 +5,7 @@ layout: page
 
 ## Selected Publications
 
-### Peer-Reviewed Journal Articles (*indicates students or postdocs in lab)
+### Journal Articles (^indicates students and other members of lab group)
 ***
 #### 2025
 * Fastovich, David, Meyers, S.R., Saupe, E.E., Williams, J.W., Dornelas, M., Dowding, E.M., Finnegan, S., Huang, H.-H.M., Jonkers, L., Kiessling, W., Kocsis, Á.T., Li, Q., Liow, L.H., Na, L., Penny, A.M., Pippenger, K., Renaudie, J., Rillo, M.C., Smith, J., Steinbauer, M.J., Sugawara, M., Tomašovỳch, A., Yasuhara, M., Hull, P.M., 2025. *Coupled, decoupled, and abrupt responses of vegetation to climate across timescales.* **Science** 389: 64-68. [DOI](https://doi.org/10.1126/science.adr6700) 
@@ -17,13 +17,131 @@ layout: page
 * Staples, T.L., Blois, J., Cramer, K.L., Cunningham, E.T., Dornelas, M., Haberle, S.G., Heger, T., Kiessling, W., Magurran, A.E., O’Dea, A., Penny, A.M., Radeloff, V.C., Smith, J.A., Thuiller, W., Williams, J.W., Pandolfi, J.M., 2025. *A conceptual framework for measuring ecological novelty.* **Global Ecology and Biogeography** 34, e70005. [DOI](https://doi.org/10.1111/geb.70005)
 
 #### 2024
+* Fastovich, D.^, Radeloff, V. C., Zuckerberg, B. and Williams, J. W., 2024. *Legacies of millennial-scale climate oscillations in contemporary biodiversity in eastern North America.* **Proceedings of the Royal Society** B 379: no. 1902. [DOI](https://doi.org/10.1098/rstb.2023.0012).
+
+* Schlenker, Nora^, Jonathan Johnson, Tessa Ray-Cozzens, Vania Stefanova, David M. Nelson, Bryan N. Shuman, and John W. Williams, 2024. *Interacting effects of fire and hydroclimate on oak and beech community prevalence in the southern Great Lakes region.* **Journal of Ecology** 112: 1101–22. [DOI](https://doi.org/10.1111/1365-2745.14289).
+
+* Nelson, J.K., Blois, J., Goring, S., Williams, J.W., Dominguez, S., 2024. *User-centered design and evaluation of the Neotoma paleoecology open software ecosystem.* **International Journal of Digital Earth** 17, 2378822. [DOI](https://doi.org/10.1080/17538947.2024.2378822)
+
+* Herbert, A.V., Haberle, S.G., Flantua, S.G.A., Mottl, O., Blois, J.L., Williams, J.W., George, A., Hope, G., 2024. *The Indo-Pacific Pollen Database - a Neotoma constituent database.* **Climate of the Past** 20, 2473–2485. [DOI](https://doi.org/10.5194/cp-20-2473-2024)
+
+* Anderson, K., Tooth, S., Kim, D., Resler, L. M. Schillereff, D., Williams, J. W., Rocchini, D., Ponette-González, A. G., Kuhn, N. J., and Brian, J. V., 2024. *A horizon scan for novel and impactful areas of physical geography research in 2023 and beyond.* **Progress in Physical Geography: Earth and Environment** 48: 3–23. [DOI](https://doi.org/10.1177/03091333231217881).
+
+* Smith, J., Rillo, M.C., Kocsis, Á.T., Dornelas, M., Fastovich, D., Huang, H.-H.M., Jonkers, L., Kiessling, W., Li, Q., Liow, L.H., Margulis-Ohnuma, M., Meyers, S., Na, L., Penny, A.M., Pippenger, K., Renaudie, J., Saupe, E.E., Steinbauer, M.J., Sugawara, M., Tomašovỳch, A., Williams, J.W., Yasuhara, M., Finnegan, S., Hull, P.M., 2024. *BioDeepTime: A database of biodiversity time series for modern and fossil assemblages.* **Glob. Ecol. Biogeogr.** 32: 1680-1689 [DOI](https://doi.org/10.1111/geb.13735)
+
+* Shipley, O.N., Dabrowski, A.J., Bowen, G.J., Hayden, B., Pauli, J.N., Jordan, C., Anderson, L., Bailey, A., Bataille, C.P., Cicero, C., Close, H.G., Cook, C., Cook, J.A., Desai, A.R., Evaristo, J., Filley, T.R., France, C.A.M., Jackson, A.L., Kim, S.L., Kopf, S., Loisel, J., Manlick, P.J., McFarlin, J.M., McMeans, B.C., O’Connell, T.C., Pilaar Birch, S.E., Putman, A.L., Semmens, B.X., Stantis, C., Stricker, C.A., Szejner, P., Trammell, T.L.E., Uhen, M.D., Weintraub-Leff, S., Wooller, M.J., Williams, J.W., Yarnes, C.T., Vander Zanden, H.B., Newsome, S.D., 2024. *Design, development, and implementation of IsoBank: A centralized repository for isotopic data.* **PLOS ONE** 19, e0295662. [DOI](https://doi.org/10.1371/journal.pone.0295662)
+
+* Kaushal, N., J. W. Williams, G. Koren, A. Filippova, and N. G. Goodkin., 2024. *Building the big-data ecosystem for paleoclimatology.* **PAGES Magazine** 32: 144–45.
+
 #### 2023
+* Williams, J.W., Blois, J.L., Capo, E., Goring, S., Heintzman, P.D., Monchamp, M.-E., Parducci, L., Spanbauer, T.L., Von Eggers, J., Alsos, I.G., Bowler, C., Coolen, M.J.L., Crump, S., Epp, L.S., Fernandez-Guerra, A., Grimm, E., Herzschuh, U., Mereghetti, A., Meyer, R., Nota, K., Pedersen, M.W., Perez, V., Shapiro, B., Stoof-Leichsenring, K.R., Wood, J.R., 2023. *Strengthening global-change science by integrating aeDNA with paleoecoinformatics.* **Trends Ecol. Evol.** 38: 946-960 [DOI](https://doi.org/10.1016/j.tree.2023.04.016)
+
+* George, A.^, Widell, S.,^ Roth, R.E., Williams, J.W., 2023. *Range Mapper: An adaptable process for making and using interactive, animated web maps of late-Quaternary open paleoecological data.* **Open Quaternary** 9, 15. [DOI](https://doi.org/10.5334/oq.114)
+
+* Williams, J. W., Taylor, A., Tolley, K. A., Provete, D. B., Correia, R., Guedes, T. B., Farooq, H., et al. 2023. *Shifts to open access with high article processing charges hinder research equity and careers.* **Journal of Biogeography** 50: 1485–89. [DOI](https://doi.org/10.1111/jbi.14697).
+
 #### 2022
+* Fastovich, D.^, Russell, J.M., Marcott, S.A., Williams, J.W., 2022. *Spatial fingerprints and mechanisms of precipitation and temperature changes during the Younger Dryas in eastern North America.* **Quaternary Science Reviews** 294: 107724
+
+* Perrotti, A.^, Kiahtipes, C.A., Russell, J., Jackson, S.T., Gill, J.L., Robinson, G., Krause, T., Williams, J.W., 2022. *Diverse responses of vegetation and fire after Pleistocene megaherbivore declines across the eastern US.* **Quaternary Science Reviews** 294: 107696.
+
+* Raiho, A.M., Paciorek, C.J., Dawson, A., Jackson, S.T., Mladenoff, D.J., Williams, J.W., McLachlan, J.S., 2022. *8000-year doubling of Midwestern forest biomass driven by population- and biome-scale processes.* **Science 376, 1491-1495.**  
+
+* Williams, J.W., Seddon, A.W.R., Huntley, B., 2022. *Climate sensitivity and ecoclimate sensitivity: theory, usage, and past implications for 21st century biospheric responses.* **Current Climate Change Reports**. 8: 1-16
+
+* Williams, J.W., 2022. *Bottom-up versus top-down megafauna-vegetation interactions in ancient Beringia.* **Proceedings of the National Academy of Sciences** 119, e2121734119.
+
 #### 2021
+* Williams, J.W., 2021. *RAD:  A paradigm, shifting.* **Bioscience** 72: 13-15.
+
+* Brovkin, V., Brook, E., Williams, J.W., Lenton, T.M., Barton, T., Bathiany, S., DeConto, R.M., Donges, J., Ganopolski, A., McManus, J.F., Praetorius, S.K., de Vernal, A., Abe-Ouchi, A., Cheng, H., Claussen, M., Crucifix, M., Gallopin, G., Iglesias, V., Kaufman, D.S., Kleinen, T., Lambert, F., van der Leeuw, S., Liddy, H., Loutre, M.-F., McGee, D., Rehfeld, K., Rhodes, R., Seddon, A.W.R., Trauth, M.H., Vanderverken, L., Yu, Z., 2021. *Past abrupt changes, tipping points and cascading impacts in coupled climate-ecological-social systems: Lessons for the future.* **Nature Geoscience** 14: 550-558.
+
+* Mottl, O., Flantua, S.G.A., Bhatta, K.P., Felde, V.A., Giesecke, T., Goring, S., Grimm, E.C., Haberle, S., Hooghiemstra, H., Ivory, S., Kuneš, P., Wolters, S., Seddon, A.W.R., Williams, J.W., 2021. *Global acceleration in rates of vegetation change is unprecedented over the last 18,000 years.* **Science** 372: 860-864.  10.1126/science.abg1685 
+
+* Williams, J.W., Ordonez, A., Svenning, J.-C., 2021. *A unifying framework for studying and managing climate-driven rates of ecological change.* **Nature Ecology & Evolution** 5: 17-26.
+
+* Jensen, A.M.^, Fastovich, D. *, Watson, B.I. *, Gill, J.L., Jackson, S.T., Russell, J.M., Bevington, J. *, Hayes, K., Lininger, K., Rubbelke, C. *, Schellinger, G.C., Williams, J.W., 2021. *More than one way to kill a spruce forest: The role of fire and climate in the late-glacial termination of spruce woodlands across the southern Great Lakes.* **Journal of Ecology** 109: 459-477. [DOI](https://doi.org/10.1111/1365-2745.13517)
+
+* Uhen, M.D., Buckland, P.I., Goring Simon, J., Jenkins, J., Williams, J.W., 2021. *The EarthLife Consortium API: An extensible, open-source service for accessing fossil data and taxonomies from multiple community paleodata resources.* **Frontiers of Biogeography** e50711.
+
+* Graham, R.W., Almendinger, J., Williams, J.W., Jackson, S.T., Betancourt, J.L., Styles, B., 2021. *Memorial to Eric Christopher Grimm 1951-2020.* **Geological Society of America Memorials** 50, 31-35.
+
 #### 2020
+* Bradshaw, R.H.W., Styles, B., Giesecke, T., Flantua, S.G.A., Bittmann, F., Williams, J.W., 2021. *Eric C. Grimm 1951–2020.* **Vegetation History and Archaeobotany** 30, 305-312.
+
+* Fastovich, D.^, Russell, J.M., Jackson, S.T., Krause, T.R., Marcott, S.A., Williams, J.W., 2020. *Spatial fingerprint of Younger Dryas cooling and warming in eastern North America.* **Geophysical Research Letters** [DOI](https://doi.org/10.1029/2020GL090031)
+
+* Wang, Y.^, Graham, R.W., Porter, W.P., Wårlind, D., Widga, C., Williams, J.W., 2020. *Caught in a bottleneck: habitat loss for woolly mammoth in central North America and the ice-free corridor during the last deglaciation.* **Global Ecology and Biogeography.** [DOI](https://doi.org/10.1111/geb.13238)
+
+* Rollinson, C.R., Dawson, A., Raiho, A.M., Williams, J.W., Dietze, M.C., Hickler, T., Jackson, S.T., McLachlan, J., Moore, D.J.P., Poulter, B., Quaife, T., Steinkamp, J., Trachsel, M., 2020. *Forest responses to last-millennium hydroclimate variability are governed by spatial variations in ecosystem sensitivity.* **Ecology Letters** 24: 498-508 [DOI](https://doi.org/10.1111/ele.13667)
+
+* Fastovich, D.^, Russell, J.M., Jackson, S.T., Williams, J.W., 2020. *Deglacial temperature controls on no-analog community establishment in the Great Lakes Region.* **Quaternary Science Reviews** 234, 106245.
+
+* Trachsel, M.^, Dawson, A., Paciorek, C.J., Cogbill, C.V., Foster, D.R., Goring, S.J., Jackson, S.T., McLachlan, J.S., Oswald, W.W., Shuman, B.N., Williams, J.W., 2020. *Comparison of settlement-era vegetation reconstructions for STEPPS and REVEALS pollen-vegetation models in the northeastern United States.* **Quaternary Research** 1-20.
+
+* Turner, M.G., Calder, W.J., Cumming, G.S., Hughes, T.P., Jentsch, A., LaDeau, S.L., Lenton, T.M., Shuman, B.N., Turetsky, M.R., Ratajczak, Z., Williams, J. W., Williams, A.P., Carpenter, S.R., 2020. *Climate change, ecosystems and abrupt change: science priorities.* **Philosophical Transactions of the Royal Society B: Biological Sciences* 375, 20190105.
+
 #### 2019
+* Khider, D., Emile-Geay, J., McKay, N.P., Gil, Y., Garijo, D., Ratnakar, V., Alonso-Garcia, M., Bertrand, S., Bothe, O., Brewer, P., Bunn, A., Chevalier, M., Comas-Bru, L., Csank, A., Dassié, E., DeLong, K., Felis, T., Francus, P., Frappier, A., Gray, W., Goring, S., Jonkers, L., Kahle, M., Kaufman, D., Kehrwald, N.M., Martrat, B., McGregor, H., Richey, J., Schmittner, A., Scroxton, N., Sutherland, E., Thirumalai, K., Allen, K., Arnaud, F., Axford, Y., Barrows, T., Bazin, L., Pilaar Birch, S.E., Bradley, E., Bregy, J., Capron, E., Cartapanis, O., Chiang, H.W., Cobb, K.M., Debret, M., Dommain, R., Du, J., Dyez, K., Emerick, S., Erb, M.P., Falster, G., Finsinger, W., Fortier, D., Gauthier, N., George, S., Grimm, E., Hertzberg, J., Hibbert, F., Hillman, A., Hobbs, W., Huber, M., Hughes, A.L.C., Jaccard, S., Ruan, J., Kienast, M., Konecky, B., Le Roux, G., Lyubchich, V., Novello, V.F., Olaka, L., Partin, J.W., Pearce, C., Phipps, S.J., Pignol, C., Piotrowska, N., Poli, M.S., Prokopenko, A., Schwanck, F., Stepanek, C., Swann, G.E.A., Telford, R., Thomas, E., Thomas, Z., Truebe, S., von Gunten, L., Waite, A., Weitzel, N., Wilhelm, B., Williams, J., Winstrup, M., Zhao, N., Zhou, Y., 2019. *PaCTS 1.0: A Crowdsourced Reporting Standard for Paleoclimate Data.* **Paleoceanography and Paleoclimatology** [DOI](doi:10.1029/2019PA003632)
+
+* Salonen, J.S., Korpela, M., Williams, J.W., Luoto, M., 2019. *Machine-learning based reconstructions of primary and secondary climate variables from North American and European fossil pollen data.* **Scientific Reports** 9, 15805.
+
+* Burke, K.D.^, Williams, J.W., Brewer, S., Finsinger, W., Giesecke, T., Lorenz, D.J., Ordonez, A., 2019. *Differing climatic mechanisms control transient and accumulated vegetation novelty in Europe and eastern North America.* **Philosophical Transactions of the Royal Society B: Biological Sciences** 374: 20190218.
+
+* Dawson, A., Paciorek, C. J., Goring, Simon, J., Jackson, S. T., McLachlan, J. S., and Williams J. W. (2019) *Quantifying trends and uncertainty in prehistoric forest composition in the upper Midwestern United States.* **Ecology** [DOI](doi: 10.1002/ecy.2856)
+
+* Williams, J. W., Burke, K.^, Crossley, M., Grant, D.^, and Radeloff, V. C. (2019) *Land use and climatic causes of environmental novelty in Wisconsin since 1890.* **Ecological Applications** [DOI](https://doi.org/10.1002/eap.1955)
+
+* Seeley, M.^, Goring, S., and Williams, J. W. (2019) *Testing hypotheses about environmental and dispersal controls on Fagus grandifolia distributions in the upper Midwest Great Lakes region.* **Journal of Biogeography** 46: 405-419
+
+* Stegner, M. A.^, Ratajczak, Z., Carpenter, S. R., and Williams, J. W. (2019) *Inferring critical transitions in long time series with irregular sampling and variable time-averaging.* **Quaternary Science Reviews** 207: 49-63.
+
+* Ramiadantsoa, T.^, Stegner, M. A.^, Williams, J. W., and Ives, A. R. (2019) *The potential role of intrinsic processes in generating abrupt and quasi-synchronous tree declines during the Holocene.* **Ecology** 100: e02579.
+
+* Krause, T. R., Russell, J. M., Zhang, R., Williams, J. W., and Jackson, S. T. (2019) *Late-Quaternary vegetation, climate, and fire history of the Southeast Atlantic Coastal Plain based on a 30,000-yr multi-proxy record from White Pond, South Carolina (USA).* **Quaternary Research.** [DOI](https://doi.org/10.1017/qua.2018.95)
+
 #### 2018
+* Wang, Y.^, Porter, W. P., Mathewson, P. D., Miller, P. A., Graham, R., and Williams, J. W. (2018) *Mechanistic modeling of environmental drivers of woolly mammoth carrying capacity and extinction on St. Paul Island, AK.* **Ecology** 99: 2721-2730.
+
+* Belote, R.T., Carroll, C., Martinuzzi, S., Michalak, J., Williams, J.W., Williamson, M.A., Aplet, G.H., 2018. *Assessing agreement among alternative climate change projections to inform conservation recommendations in the contiguous United States.* **Scientific Reports** 8, 9441.
+
+* Dawson, A., Cao, X., Chaput, M., Hopla, E., Li, F., Edwards, M., Fyfe, R., Gajewski, K., Goring, S.J., Herzschuh, U., Mazier, F., Sugita, S., Williams, J.W., Xu, Q., Gaillard, M.-J., 2018. *Finding the magnitude of human-induced Northern Hemisphere land-cover transformation between 6 and 0.2 ka BP.* **PAGES Magazine** 26, 34-35.
+
+* Williams, J. W., Kaufman, D. S., Newton, A., and Von Gunten, L. (2018) *Building and harnessing open data.* **PAGES Magazine** 26
+
+* Williams, J. W., Kaufman, D. S., Newton, A., and Von Gunten, L. (2018) *Building open data: Data stewards and community-curated data resources.* **PAGES Magazine** 26: 50-51.
+
+* Burke, K. D.^, Williams, J. W., Chandler, M., Haywood, A. M., Lunt, D. J., and Otto-Bliesner, B. L. (2018) *Pliocene and Eocene provide best analogues for near-future climates.* **Proceedings of the National Academy of Sciences** 115: 13,288-13,293.  
+
+* Farley, S. S.^, Dawson, A., Goring, S. J., and Williams, J. W. (2018) *Situating ecology as a big data science: Current advances, challenges, and solutions.* **Bioscience** 68: 563-576. [DOI](https://doi.org/10.1093/biosci/biy068)
+
+* Gonzalez, P., Wang, F.^, Notaro, M., Vimont, D. J., and Williams, J. W. (2018) *Disproportionate magnitude of climate change in United States national parks.* **Environmental Research Letters** 13: 104001 
+
+* Ratajczak, Z., Carpenter, S. R., Ives, A. R., Kucharik, C. J., Ramiadantsoa, T., Stegner, M. A.^, Williams, J. W., Zhang, J., and Turner, M. G. (2018) *Abrupt change in ecological systems: inference and diagnosis.* **Trends in Ecology & Evolution** 33: 513-526 [DOI](https://doi.org/10.1016/j.tree.2018.04.013)
+
+* Cogbill, C. V., Thurman, A. L., Williams, J. W., Zhu, J., Mladenoff, D. J., and Goring, S. J. (2018) *A retrospective on the accuracy and precision of plotless forest density estimators in ecological studies.* **Ecosphere** 9:e02187.
+
+* Pither, J., Pickles, B. J., Simard, S. W., Ordonez, A., and Williams, J. W. (2018) *Below-ground biotic interactions moderated the postglacial range dynamics of trees.* **New Phytologist** [DOI](10.1111/nph.15203)
+
+* Fitzpatrick, M. C., Blois, J. L., Williams, J. W., Nieto-Lugilde, D., Maguire, K. C., and Lorenz, D. J. (2018) *How will climate novelty influence ecological forecasts? Using the Quaternary to assess future reliability.* **Global Change Biology** 24: 3575-3586 [DOI](https://doi.org/10.1111/gcb.14138)
+
+* Williams, J. W., Grimm, E. G., Blois, J., Charles, D. F., Davis, E., Goring, S. J., Graham, R., Smith, A. J., Anderson, M., Arroyo-Cabrales, J., Ashworth, A. C., Betancourt, J. L., Bills, B. W., Booth, R. K., Buckland, P., Curry, B., Giesecke, T., Hausmann, S., Jackson, S. T., Latorre, C., Nichols, J., Purdum, T., Roth, R. E., Stryker, M., and Takahara, H. (2018) *The Neotoma Paleoecology Database: A multi-proxy, international community-curated data resource.* **Quaternary Research** 89: 156-177.
+
+* Dawson, A., Cao, X., Chaput, M., Hopla, E., Li, F., Edwards, M., Fyfe, R., Gajewski, K., Goring, S. J., Herzschuh, U., Mazier, F., Sugita, S., Williams, J. W., Xu, Q., and Gaillard, M.-J. (2018) *Finding the magnitude of human-induced Northern Hemisphere land-cover transformation between 6 and 0.2 ka BP.* **PAGES Magazine** 26:34-35.
+
+* Watson, B. I.^, Williams, J. W., Russell, J. W., Jackson, S. T., Shane, L. C. K., and Lowell, T. V. (2018) *Temperature variations in the southern Great Lakes during the last deglaciation: Comparison between pollen and GDGT proxies.* **Quaternary Science Reviews** 182: 78-92
+
+* Nieto-Lugilde, D., Maguire, K. C., Blois, J. L., Williams, J. W., and Fitzpatrick, M. C. (2018) *Multiresponse algorithms for community-level modelling: Review of theory, applications, and comparison to species distribution models.* **Methods in Ecology and Evolution** 9:834-848.
+
+* Wooller, M., Saulnier-Talbot, E., Potter, B., Belmecheri, S., Bigelow, N., Choy, K., Cwynar, L., Davies, K., Graham, R., Kurek, J., Langdon, P., Medeiros, A., Rawcliffe, R., Wang, Y^., & Williams, J. (2018) *A new terrestrial palaeoenvironmental record from the Bering Land Bridge and context for human dispersal.* **Royal Society Open Science**, 5(6): 180145. 
+
 #### 2017
+* Goring, S. J.^, and Williams, J. W. (2017) Effect of historic land-use and climate change on tree-climate relationships in the upper Midwestern United States. **Ecology Letters**  20: 461-470.  [DOI](10.1111/ele.12747)
+
+* Marlon, J. R., Pederson, N., Nolan, C., Goring, S., Shuman, B., Robertson, A., Booth, R., Bartlein, P. J., Berke, M. A., Clifford, M., Cook, E., Dieffenbacher-Krall, A., Dietze, M. C., Hessl, A., Hubeny, J. B., Jackson, S. T., Marsicek, J., McLachlan, J., Mock, C. J., Moore, D. J. P., Nichols, J., Peteet, D., Schaefer, K., Trouet, V., Umbanhowar, C., Williams, J. W., and Yu, Z. (2017) *Climatic history of the northeastern United States during the past 3000 years.* **Climates of the Past** 13:1355-1379.
+
+* Wang, Y.^, Heintzman, P. D., Newsom, L., Bigelow, N. H., Wooller, M. J., Shapiro, B., and Williams, J. W. (2017) *The southern coastal Beringian land bridge: cryptic refugium or pseudorefugium for woody plants during the Last Glacial Maximum?* **Journal of Biogeography** 44: 1559-1571.
+
 #### 2016
 * Ordonez, A., Williams, J. W., and Svenning, J. C. (2016) *Mapping climate mechanisms likely to favour the emergence of novel communities.* **Nature Climate Change** [DOI](https://dx.doi.org/10.1038/nclimate3127).
 
