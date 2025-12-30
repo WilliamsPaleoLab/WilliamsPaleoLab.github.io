@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "New Paper:  Are Ecotonal Communities more Sensitive to Climate Change?"
-date:   2025-07-03 12:00:00 -0700
+date:   2025-12-30 12:00:00 -0700
 categories: media
 blurb:
 ---
